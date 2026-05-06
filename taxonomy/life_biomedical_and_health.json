@@ -1,0 +1,144 @@
+{
+  "Clinical Medicine and Clinical Research": {
+    "General Clinical Trials": "Randomized and non-randomized trials testing safety, efficacy, dosing and outcomes for drugs, devices, procedures and behavioral interventions in human participants.",
+    "Translational Clinical Research": "First-in-human studies, biomarker-driven trials, adaptive and platform trial implementations bridging bench discoveries to patient testing.",
+    "Surgical and Procedural Research": "Experimental evaluation of surgical techniques, device trials, perioperative outcomes, and randomized comparisons of procedural approaches.",
+    "Critical Care and Acute Medicine": "Interventional and observational studies in ICU/acute settings, physiological monitoring experiments, and device/drug trials for life-threatening conditions."
+  },
+
+  "Epidemiology and Public Health": {
+    "Infectious Disease Epidemiology": "Field and clinical studies tracking transmission, outbreak investigations, vaccine effectiveness studies, and pathogen surveillance.",
+    "Chronic Disease Epidemiology": "Population cohort and case-control studies measuring exposures, risk factors, and outcomes for noncommunicable diseases.",
+    "Environmental and Exposure Epidemiology": "Empirical exposure assessment studies, environmental monitoring, cohort studies linking exposures to health endpoints.",
+    "Implementation and Intervention Epidemiology": "Cluster trials and pragmatic experiments evaluating public-health programs, uptake, and real-world effectiveness."
+  },
+
+  "Microbiology Infectious Diseases and Vaccinology": {
+    "Bacteriology and Antimicrobial Research": "In vitro and in vivo antibiotic efficacy testing, resistance surveillance, and infection-model experiments.",
+    "Virology and Pandemic Preparedness": "Viral culture and challenge models, neutralization assays, vaccine immunogenicity experiments, and field trials.",
+    "Parasitology and Fungal Diseases": "Laboratory and animal-model experiments of parasite/fungal biology and therapeutic interventions.",
+    "Vaccine development and evaluation": "Preclinical challenge studies, immunogenicity assays, correlates-of-protection work, and clinical vaccine trials."
+  },
+
+  "Immunology and Inflammation": {
+    "Innate and Adaptive Immunity Research": "Cellular and molecular assays, animal-model perturbations, flow cytometry, and immune-phenotyping experiments.",
+    "Autoimmunity and Inflammatory Disease Studies": "Mechanistic in vivo/in vitro experiments, therapeutic antibody/biologic testing, and biomarker validation.",
+    "Immunotherapy and translational immunology": "Preclinical and clinical testing of CAR-T, checkpoint inhibitors, cell therapies and combination regimens."
+  },
+
+  "Genetics Genomics and Genomic Medicine": {
+    "Human Genetics and Association Studies": "Empirical GWAS/cohort studies, family-based sequencing studies, and replication/functional validation experiments.",
+    "Functional genomics and gene regulation": "CRISPR perturbations, reporter assays, epigenomic profiling, and experimental validation of regulatory elements.",
+    "Clinical genomics and precision medicine": "Diagnostic validation studies, genotype-phenotype correlation experiments, and interventional studies guided by genomic biomarkers."
+  },
+
+  "Molecular and Cellular Biology": {
+    "Cell biology and signaling": "Cell-culture experiments, live-cell imaging, perturbation assays, and biochemical pathway validation.",
+    "Molecular biology and biochemistry": "Protein/DNA/RNA assays, enzymology, binding studies, and mechanistic in vitro experiments.",
+    "Structural biology with empirical validation": "Cryo-EM/X-ray/biophysical experiments combined with functional assays to validate structure-function relationships."
+  },
+
+  "Pharmacology Toxicology and Drug Discovery": {
+    "Preclinical drug screening": "High-throughput screening, cell- and organoid-based efficacy assays, ADME/Tox experiments, and lead optimization.",
+    "Pharmacokinetics and pharmacodynamics": "In vivo PK/PD experiments, biomarker calibration, dosing models, and therapeutic-window studies.",
+    "Toxicology and safety science": "Acute and chronic toxicology studies in animals, genotoxicity testing, and exposure-response experiments."
+  },
+
+  "Biomedical Engineering and Bioengineering": {
+    "Medical devices and implants": "Design, benchtop testing, biocompatibility experiments, and human/animal device trials.",
+    "Tissue engineering and biomaterials": "Scaffold fabrication, in vitro tissue constructs, animal implantation studies, and mechanical/functional testing.",
+    "Biomechanics and biomedical sensors": "Experimental models of physiological mechanics, sensor validation, wearables testing, and in vivo measurements."
+  },
+
+  "Neuroscience and Behavioral Neurosciences": {
+    "Systems and cognitive neuroscience experiments": "Human neuroimaging and electrophysiology studies, cognitive task experiments, and translational animal models.",
+    "Cellular and molecular neuroscience": "Synaptic physiology, optogenetic/chemogenetic perturbations, slice and in vivo electrophysiology experiments.",
+    "Neurotherapeutics and neuroengineering": "Preclinical testing of neuromodulation, DBS, brain-computer interfaces, and early-phase clinical neuromodulation trials."
+  },
+
+  "Cancer Biology and Oncology Research": {
+    "Tumor biology and mechanisms": "In vitro/in vivo tumor models, metastasis assays, tumor microenvironment experiments, and functional genomics in cancer.",
+    "Cancer therapeutics and drug development": "Preclinical efficacy studies, xenograft and PDX experiments, combination therapy testing, and clinical oncology trials.",
+    "Cancer epidemiology and screening research": "Population-based screening trials, biomarker validation for early detection, and outcomes research."
+  },
+
+  "Regenerative Medicine and Stem Cell Biology": {
+    "Stem cell biology experiments": "Pluripotent and adult stem cell culture, differentiation protocols, lineage tracing, and in vivo engraftment studies.",
+    "Cell therapy development": "Manufacturing validation, potency assays, preclinical efficacy/toxicity testing, and clinical translation of cell therapies."
+  },
+
+  "Medical Imaging and Medical Physics": {
+    "Imaging modality development": "Hardware and sequence/protocol experiments for MRI, CT, PET, ultrasound and hybrid modalities; phantom and human validation.",
+    "Molecular and functional imaging": "Tracer development, dynamic imaging experiments, and image-based biomarker validation in preclinical and clinical studies.",
+    "Imaging physics and quantitative imaging": "System characterization, quantitative imaging biomarker development, and reproducibility/phantom experiments."
+  },
+
+  "Reproductive developmental and perinatal sciences": {
+    "Reproductive biology and fertility research": "In vitro fertilization studies, gamete/embryo assays, reproductive endocrinology experiments, and animal-model reproductive studies.",
+    "Developmental biology and embryology experiments": "Model organism embryology, lineage tracing, teratogenicity testing, and mechanistic developmental experiments.",
+    "Perinatal epidemiology and intervention trials": "Clinical and cohort studies on pregnancy outcomes, neonatal interventions, and maternal-child health trials."
+  },
+
+  "Metabolism Nutrition and Endocrinology": {
+    "Metabolic and obesity research": "Human and animal experiments measuring energy balance, metabolic flux studies, and intervention trials for weight/metabolic disease.",
+    "Endocrinology and hormone research": "Physiological experiments, hormone assays, receptor studies, and interventional endocrine trials.",
+    "Nutrition science and dietary trials": "Controlled feeding studies, biomarker-driven nutrition experiments, and randomized dietary interventions."
+  },
+
+  "Aging Gerontology and Longevity Research": {
+    "Cellular and molecular aging experiments": "Senescence assays, longevity interventions in model organisms, and biomarker validation of biological aging.",
+    "Clinical aging research and geriatrics trials": "Intervention trials in older adults, frailty measurements, and translational studies targeting age-related decline."
+  },
+
+  "Systems Biology Omics and Multiomics": {
+    "Proteomics transcriptomics and metabolomics": "Experimental pipeline development for omics data generation, quantitative assays, and cross-platform validation experiments.",
+    "Single cell and spatial omics experiments": "Single-cell sequencing, spatial transcriptomics/proteomics assays, and validation via imaging or functional perturbations.",
+    "Integrative experimental systems biology": "Perturbation experiments with multi-omic readouts, network perturbation studies, and experimental model validation of systems predictions."
+  },
+
+  "Clinical laboratory medicine and pathology": {
+    "Laboratory diagnostics and assay development": "Analytical and clinical validation of assays (immunoassays, molecular diagnostics), quality-control and point-of-care test evaluation.",
+    "Anatomic and molecular pathology experiments": "Tissue-based experimental studies, biomarker localization, and diagnostic test validation on clinical samples."
+  },
+
+  "Health Services Implementation and Health Policy Research": {
+    "Health services and outcomes research": "Quasi-experimental and experimental studies of care delivery models, comparative-effectiveness trials, and outcomes measurement.",
+    "Implementation science and scale-up trials": "Pragmatic trials, stepped-wedge and cluster-randomized designs testing real-world implementation and adoption.",
+    "Health economics and policy interventions": "Experimental and quasi-experimental evaluations of policy changes, incentive trials, and economic evaluations embedded within trials."
+  },
+
+  "Behavioral Mental Health and addiction research": {
+    "Clinical psychology and psychotherapy trials": "Randomized and mechanistic trials of psychotherapies, behavioral interventions, and outcome measurements.",
+    "Psychiatric neuroscience and intervention studies": "Pharmacologic and neuromodulation experiments in psychiatric disorders, and clinical trials for novel psychiatric treatments.",
+    "Addiction science and substance use trials": "Lab-based cue/reactivity studies, medication and behavioral intervention trials, and longitudinal observational experiments."
+  },
+
+  "Digital Health and Health Informatics": {
+    "Digital intervention and mHealth trials": "Randomized and pragmatic trials of apps, telemedicine, and digital therapeutics; usability and real-world performance experiments.",
+    "AI and clinical decision support validation": "Prospective validation studies, silent-run experiments, diagnostic accuracy trials, and human-AI interaction experiments.",
+    "Sensors and remote monitoring studies": "Wearable validation, physiological-sensing experiments, and remote patient monitoring trials."
+  },
+
+  "Environmental Health and Toxicology": {
+    "Toxicology and exposure science": "Animal and in vitro toxicology assays, dose-response experiments, and mechanistic toxicology studies.",
+    "Environmental health intervention trials": "Field interventions reducing exposures, community trials, and biomonitoring studies linking exposures to health outcomes."
+  },
+
+  "Occupational and Occupational Health Research": {
+    "Workplace exposure and intervention studies": "Field exposure monitoring, ergonomics experiments, randomized workplace interventions, and injury-prevention trials."
+  },
+
+  "Rehabilitation Science and Physical Therapy research": {
+    "Rehab intervention trials and device testing": "Clinical and mechanistic trials of rehabilitation protocols, robotic-assisted therapy experiments, and functional outcome measurement studies."
+  },
+
+  "Comparative Medicine and animal models": {
+    "Preclinical animal model development": "Design and validation of animal models, translational relevance experiments, and reproducibility/replication studies across models.",
+    "Veterinary and one health experimental research": "Animal disease models, zoonotic-pathogen experiments, and interventions at the human-animal-environment interface."
+  },
+
+  "Precision and personalized medicine": {
+    "Biomarker discovery and clinical validation": "Discovery experiments, analytical validation, and prospective clinical studies testing biomarker-driven decision-making.",
+    "Stratified intervention trials": "Trials that assign interventions based on molecular/phenotypic stratification and test differential benefit in subgroups."
+  }
+}

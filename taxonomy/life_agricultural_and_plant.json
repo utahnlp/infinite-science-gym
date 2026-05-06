@@ -1,0 +1,89 @@
+{
+  "Crop Science and Agronomy": {
+    "Crop Physiology and Productivity": "Field and controlled-environment experiments measuring growth, photosynthesis, yield components, and responses to abiotic stresses (drought, heat, CO₂).",
+    "Cropping Systems and Management": "Long-term and replicated field trials comparing rotations, tillage, cover crops, nutrient management, and regenerative practices for productivity and resilience.",
+    "Soil Crop Interactions": "Empirical studies on root architecture, nutrient uptake, rhizosphere processes, and how soil treatments affect crop performance."
+  },
+  "Plant Breeding Genetics and Genomics": {
+    "Conventional and Quantitative Breeding": "Multi-location field trials, pedigree and hybrid evaluation, phenotypic selection trials, and varietal release experiments.",
+    "Genomics-enabled breeding and Genome-Wide Association": "Association/marker-assisted selection experiments, genomic prediction validated with field/greenhouse trials, and performance benchmarking.",
+    "Gene Editing and Transgenic evaluation": "Containment/greenhouse and field trials assessing CRISPR/Cas or transgenic lines for trait performance, stability, and regulatory data collection.",
+    "Phenotyping and Genome-to-Phenome integration": "High-throughput phenotyping experiments linking genomic variation to measured traits under controlled and field conditions."
+  },
+  "Plant Physiology and Biochemistry": {
+    "Abiotic Stress Biology": "Controlled environment and field experiments probing physiological/biochemical responses to drought, salinity, temperature extremes, and hypoxia.",
+    "Photosynthesis and carbon partitioning": "Gas-exchange, fluorescence, isotopic and lab assays to quantify photosynthetic performance, respiration, and carbon allocation.",
+    "Root Biology and Rhizosphere": "Rhizotron, root imaging, exudate chemistry, and microcosm experiments studying root growth, signaling, and nutrient acquisition."
+  },
+  "Plant Pathology and Plant Disease": {
+    "Pathogen Biology and Epidemiology": "Inoculation trials, host range studies, field disease surveys, and epidemiological field experiments to quantify spread and impact.",
+    "Disease Resistance screening": "Greenhouse and field screening trials of germplasm, fungicide/biocontrol efficacy tests, and resistance durability studies.",
+    "Phytopathogen detection and diagnostics": "Experimental validation of molecular diagnostics, remote sensing for disease detection, and surveillance field trials."
+  },
+  "Entomology and Pest Management": {
+    "Insect Ecology and population dynamics": "Field trapping, mark-recapture, and cage experiments measuring life-history, dispersal, and pest pressure.",
+    "Integrated Pest Management and biocontrol": "Field and greenhouse trials testing cultural, biological, chemical, and behavioral control strategies and their interactions.",
+    "Insecticide Efficacy and resistance monitoring": "Dose-response bioassays, resistance allele surveys, and applied field efficacy trials."
+  },
+  "Weed Science": {
+    "Weed Ecology and Competition": "Field experiments quantifying crop-weed competition, emergence timing, and ecological interactions under management regimes.",
+    "Herbicide Efficacy and resistance": "Greenhouse/field dose trials, resistance diagnostics, and stewardship experiments for herbicide rotation/mixtures.",
+    "Nonchemical weed management": "Studies on cover crops, tillage, mulching, and mechanical control effectiveness across environments."
+  },
+  "Soil Science and Soil Health": {
+    "Soil physics and hydrology": "Field and lab measurements of infiltration, water retention, evaporation, and instrumentation/lysimeter experiments.",
+    "Soil chemistry and nutrient cycling": "Experiments on nutrient transformations, fertilizer trials, isotopic tracer studies, and greenhouse leaching tests.",
+    "Soil microbiology and microbiomes": "Laboratory microcosms and field manipulations to test microbial community effects on nutrient availability, disease suppression, and carbon dynamics."
+  },
+  "Agroecology and Sustainable Agriculture": {
+    "Agroecosystem dynamics and biodiversity": "Field experiments assessing biodiversity effects, pollinator/predator services, and multifunctional landscape practices.",
+    "Climate-Smart and resilient practices": "On-farm and experimental-station trials testing mitigation/adaptation practices (e.g., cover crops, altered planting dates, carbon management).",
+    "Socio-ecological field trials": "Participatory experiments and on-farm trials that combine agronomic measurements with social uptake and economic outcomes."
+  },
+  "Horticulture and protected culture": {
+    "Controlled Environment and Greenhouse Cropping": "Controlled-environment trials on lighting, CO₂, substrate, and nutrient solutions for vegetables, ornamentals, and herbs.",
+    "Postharvest physiology and storage": "Experiments on respiration, ripening, storage protocols, cold chain trials, and shelf-life extension techniques.",
+    "Fruit and vegetable production science": "Field and orchard trials on pruning, training, cultivar evaluation, and pest/disease management tailored to horticultural crops."
+  },
+  "Irrigation and water management": {
+    "Irrigation technology and scheduling": "Field experiments comparing irrigation systems, sensor-driven scheduling, deficit irrigation trials, and efficiency measurements.",
+    "Water quality and salinity management": "Mesocosm and field trials testing saline water impacts, remediation, and crop tolerance screening."
+  },
+  "Precision Agriculture and Digital Agronomy": {
+    "Remote sensing and phenotyping": "UAV/satellite and proximal sensing experiments for biomass, stress detection, and high-throughput trait measurement validated with ground truthing.",
+    "Decision support and sensor validation": "Field trials validating soil moisture, nutrient, and plant sensors and decision systems for management interventions.",
+    "Robotics and automation in field trials": "Experimental deployments of autonomous vehicles/robotic platforms for planting, scouting, and targeted treatment applications."
+  },
+  "Plant-Microbe and Symbiosis research": {
+    "Beneficial microbe inoculants": "Greenhouse and field tests of microbial inoculants (PGPR, mycorrhizae) for yield, stress tolerance, and nutrient use efficiency.",
+    "Pathobiome and microbiome manipulation": "Experimental manipulation of microbiomes to study disease suppression, nutrient cycling, and host health outcomes."
+  },
+  "Food Safety and Postharvest": {
+    "Pathogen survival and contamination control": "Laboratory and processing-line experiments on pathogen survival, mitigation treatments, and sanitation efficacy.",
+    "Cold chain and storage trials": "Empirical testing of storage regimes, packaging technologies, and transport conditions to reduce spoilage and maintain quality."
+  },
+  "Agricultural Economics and on-farm experiments": {
+    "On-farm trial design and adoption studies": "Randomized block and on-farm replicated trials measuring yield, input use, and farmer adoption under real-world conditions.",
+    "Technology evaluation and cost-benefit field studies": "Empirical economic experiments assessing profitability and risk of management changes or new varietals."
+  },
+  "Agri-biotechnology and synthetic biology": {
+    "Biotech trait evaluation": "Greenhouse and field trials assessing engineered traits for stress tolerance, nutritional enhancement, or production traits.",
+    "Bio-based products testing": "Experimental validation of biofertilizers, biopesticides, and plant-derived industrial products in lab and field settings."
+  },
+  "Postharvest and value-chain processing research": {
+    "Processing technologies and quality assessment": "Pilot-scale experimental evaluations of drying, milling, fermentation, and other processing steps and their effects on quality and safety.",
+    "Shelf-life interventions and supply chain trials": "Intervention trials across storage, transport, and retail stages measuring losses and consumer-relevant quality attributes."
+  },
+  "Controlled environment and vertical farming": {
+    "Lighting and spectral optimization experiments": "Growth chamber and greenhouse studies testing spectral recipes, photoperiod, and light intensity effects on yield and quality.",
+    "Systems integration and resource efficiency trials": "Experimental life-cycle and operational trials measuring energy, water, and nutrient efficiency of vertical/controlled systems."
+  },
+  "Instrumentation and method development": {
+    "Sensor development and validation": "Laboratory and in-field calibration/validation experiments for novel sensors (spectral, chemical, robotic).",
+    "High-throughput methods and protocols": "Development and benchmarking of experimental protocols for phenotyping, sample processing, and automated assays."
+  },
+  "Plant conservation and plant biogeography": {
+    "Ex situ and in situ conservation experiments": "Empirical trials for seed banking viability, restoration plantings, and assisted migration experiments in field plots.",
+    "Trait-based and range shift field studies": "Manipulative field experiments testing species performance under simulated climate or land-use change."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Molecular Biology and Biochemistry": {
+    "Gene Regulation and Expression": "Experiments probing how genes are turned on/off; transcription factors; epigenetic regulation (e.g. chromatin modifications, DNA methylation); promoter/enhancer studies; non‐coding RNA roles.",
+    "Protein Biochemistry and Enzymology": "Study of protein structure, folding, dynamics, catalytic mechanisms of enzymes; post‐translational modifications; protein interactions; kinetics; inhibitor/drug binding assays.",
+    "Structural Biology": "Determination of molecular structures by X-ray crystallography, cryo‐EM, NMR, small‐angle scattering; structure‐function experiments; mutagenesis to test structure predictions.",
+    "Cell and Organelle Biology": "Cellular architecture; membrane trafficking; organelle biogenesis and dynamics; cytoskeleton; live cell imaging; intracellular signaling; cell adhesion.",
+    "Metabolism and Metabolic Regulation": "Metabolic pathway elucidation; flux analysis; metabolomics; regulation of metabolic enzymes; metabolic adaptation to environment; energy homeostasis."
+  },
+
+  "Genetics Genomics and Epigenetics": {
+    "Classical Genetics": "Inheritance, mutant phenotypes, linkage mapping, crossing experiments, gene knockouts or overexpression in organisms.",
+    "Population Genetics": "Empirical measurement of allele frequencies across populations; field sampling; studies of genetic drift, gene flow, selection in natural or experimental populations.",
+    "Genomics and Comparative Genomics": "Sequencing of genomes; comparative genome analysis; identification of genomic variation; structural variation; large-scale genome projects.",
+    "Epigenetics and Phenotypic Plasticity": "How environmental or developmental cues shape epigenetic marks; experiments on epigenetic inheritance; effects of diet, stress, etc.; chromatin accessibility assays.",
+    "Functional Genomics": "High‐throughput screening (RNAi, CRISPR) to test gene function; transcriptomics (RNA-seq), proteomics to associate genes with phenotypes; single‐cell genomics."
+  },
+
+  "Cell Development Organismal Biology": {
+    "Developmental Biology": "Studies of embryogenesis; cell differentiation; morphogenesis; organ formation; patterning; stem cell biology; regeneration.",
+    "Cell Cycle Death and Apoptosis": "Regulation of cell division; checkpoints; programmed cell death; senescence; proliferation control and its dysregulation (e.g. cancer).",
+    "Physiology at Cell and Organ Level": "Function of organs and tissues; signaling; transport; homeostasis; organ systems' response to stimuli; stress, temperature, etc.",
+    "Regenerative Biology and Stem Cells": "Tissue repair; stem cell niches; induced pluripotent stem cells; organoid models; regeneration in organisms.",
+    "Aging and Longevity": "Experimental studies of aging mechanisms; genetics of lifespan; cellular senescence; caloric restriction; model organisms for aging."
+  },
+
+  "Microbiology Infectious Disease and Immunology": {
+    "Microbial Physiology and Cell Biology": "Growth, metabolism, and structural biology of bacteria, archaea, fungi, protists; cell wall biology; biofilm formation.",
+    "Pathogenesis andHost Pathogen Interactions": "Molecular, cellular experiments of how pathogens infect hosts; immune evasion; virulence factors; experimental infection models.",
+    "Virology": "Virus replication; viral entry; antiviral drug testing; vaccine development; virus‐host interactions; viral evolution experiments.",
+    "Immunology": "Innate and adaptive immune responses; antigen presentation; immune cell signaling; immune memory; autoimmune disease studies; immunotherapy.",
+    "Microbiome andCommunity Ecology": "Experiments on microbial communities in hosts or environments; effects of diet/antibiotics; functional roles of microbiome; metagenomics plus culturing."
+  },
+
+  "Neuroscience and Behavior": {
+    "Molecular and Cell Neurobiology": "Synapse structure & function; ion channels; neurodevelopment; neurodegenerative disease mechanisms; neural signaling molecules.",
+    "Systems and Circuit Neurobiology": "Recording or imaging neuronal populations; mapping circuits; optogenetics or chemogenetics; behavioral responses tied to neural circuits.",
+    "Behavioral Biology": "Animal behavior experiments; learning, cognition, sensory processing; social behavior; mate choice; behavioral ecology.",
+    "Cognitive Neuroscience": "In animals or humans; experiments probing perception, memory, decision‐making; imaging (fMRI, EEG, MEG) plus behavioral tasks.",
+    "Neurophysiology andElectrophysiology": "Patch-clamp; in vivo recordings; field potentials; neural dynamics; circuit oscillations; plasticity experiments."
+  },
+
+  "Evolution Ecology and Environmental Biology": {
+    "Evolutionary Biology": "Experimental evolution (microbes, viruses, model organisms) ; adaptation studies; speciation experiments; phylogenetic field work; evolutionary developmental biology (eco-evo-devo).",
+    "Ecology": "Field experiments; community ecology; species interactions; population dynamics; ecosystem function; trophic experiments; climate change impacts.",
+    "Conservation Biology": "Monitoring biodiversity; habitat restoration trials; genetic rescue; experimental interventions in conservation; impact of human activities.",
+    "Physiological and Environmental Ecology": "Organismal responses to temperature, humidity, pollution; stress and acclimation; ecophysiology; plant / animal physiology in natural settings.",
+    "Microbial Ecology andBiogeochemistry": "Carbon/nitrogen cycling; soil microbes; microbial mediation of elemental cycles; experiments on microbial function in ecosystems."
+  },
+
+  "Plant Science": {
+    "Plant Physiology": "Photosynthesis, respiration; water relations; nutrient uptake; stress responses to drought, pests, etc.",
+    "Plant Growth and Development": "Meristem function; flowering control; seed germination; root architecture; tissue differentiation; plant regeneration.",
+    "Plant Pathology and Pests": "Plant diseases; fungal, bacterial, viral pathogens; pest resistance; crop protection experiments.",
+    "Plant Genetics and Breeding": "Creation of new crop varieties; quantitative trait studies; gene mapping; molecular breeding; genetic engineering of plants.",
+    "Plant Ecology Agronomy": "Plant interactions with environment; crop yields under different agronomic practices; field trials; plant community ecology."
+  },
+
+  "Biomedical and Translational Biology": {
+    "Cancer Biology": "Experiments on oncogenes/tumor suppressors; cell lines and in vivo cancer models; metastasis; drug resistance; therapeutics discovery.",
+    "Development of Therapeutics and Drugs": "Drug discovery pipelines; high‐throughput screening; pharmacodynamics/pharmacokinetics; validation in cells and animal models; clinical translational research.",
+    "Regenerative Medicine and Tissue Engineering": "Scaffold design; cell therapies; organoids; transplantation; biomaterials; stem cell based repair.",
+    "Neurobiology of Disease": "Mechanisms of neurological disorders; animal disease models; neurodegeneration, neuroinflammation; testing interventions.",
+    "Infectious Disease Therapy andVaccine Development": "Vaccine trials; antiviral/antibiotic therapies; immune adjuvant development; diagnostics development."
+  },
+
+  "Systems Biology Biotechnology and Synthetic Biology": {
+    "Systems Biology": "Integration of multiple data types; perturbation experiments; regulatory network mapping; feedback loops; modeling plus experimental validation.",
+    "Synthetic Biology": "Design and building of new biological circuits; genetic engineering of organisms; cell or pathway redesign; minimal cells; engineering microbes for new functions.",
+    "Biotechnology and Bioengineering": "Applied experiments: bioproducts; bioreactors; industrial enzymes; metabolic engineering; scale‐up; biomanufacturing.",
+    "Omics‐Technologies and High‐Throughput Methods": "Development and use of next‐gen sequencing, proteomics, metabolomics, single‐cell and spatial omics; screening technologies.",
+    "Bioinformatics with Experimental Validation": "Computational predictions verified via wet‐lab experiments; experimental benchmarking of pipelines; cross-validation of high-throughput data."
+  }
+}

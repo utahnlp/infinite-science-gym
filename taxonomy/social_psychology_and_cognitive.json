@@ -1,0 +1,55 @@
+{
+  "Cognitive Psychology": {
+    "Attention and Perception": "Experimental studies of visual, auditory, and multisensory attention; psychophysical tasks; reaction time and eye-tracking studies.",
+    "Memory and Learning": "Behavioral experiments on working memory, long-term memory, associative learning, and experimental manipulations of encoding and retrieval.",
+    "Decision Making and Cognition": "Laboratory and online experiments on judgment, heuristics, risk-taking, and cognitive biases; computational modeling validated empirically.",
+    "Language and Communication": "Experiments on language comprehension, production, psycholinguistics, reading, and speech perception using behavioral and neuroimaging methods."
+  },
+
+  "Developmental Psychology": {
+    "Infant and Child Development": "Controlled experiments on perceptual, cognitive, social, and emotional development; longitudinal observational studies; early learning interventions.",
+    "Adolescent and Lifespan Development": "Experimental and longitudinal studies of cognitive, emotional, and social changes across adolescence to adulthood.",
+    "Developmental Cognitive Neuroscience": "Neuroimaging and EEG experiments examining brain development and cognitive function across childhood and adolescence."
+  },
+
+  "Social Psychology": {
+    "Social Cognition": "Experimental studies on person perception, social learning, theory of mind, and stereotype activation in laboratory and field settings.",
+    "Attitudes and Persuasion": "Behavioral experiments testing influence, persuasion, prejudice reduction, and social norm interventions.",
+    "Group Dynamics and Interpersonal Behavior": "Experimental and quasi-experimental research on cooperation, conflict, social networks, and team decision-making."
+  },
+
+  "Clinical and Health Psychology": {
+    "Experimental Clinical Psychology": "Randomized controlled trials and lab experiments on interventions for anxiety, depression, PTSD, and other disorders.",
+    "Behavioral Health and Wellbeing": "Experimental studies on stress, sleep, exercise, diet, and psychosocial interventions to improve health outcomes.",
+    "Neuropsychology and Cognitive Rehabilitation": "Experimental assessments of cognitive deficits, brain injury recovery, and rehabilitation protocols."
+  },
+
+  "Neuroscience and Cognitive Neuroscience": {
+    "Systems and Cognitive Neuroscience": "Behavioral experiments combined with fMRI, EEG, MEG, or TMS to study perception, attention, memory, and decision-making.",
+    "Affective Neuroscience": "Experimental studies of emotion processing, reward, motivation, and their neural correlates.",
+    "Social Neuroscience": "Lab and neuroimaging studies examining neural mechanisms of social cognition, empathy, and social interaction."
+  },
+
+  "Experimental Personality and Individual Differences": {
+    "Personality Assessment and Dynamics": "Laboratory and longitudinal experiments studying traits, behavior consistency, and situational modulation.",
+    "Motivation and Emotion": "Experimental manipulation of intrinsic and extrinsic motivation; studies on emotion regulation, affective forecasting, and behavioral outcomes.",
+    "Psychophysiology and Biobehavioral Research": "Experimental measurement of physiological correlates of personality, stress, and emotion (heart rate, cortisol, skin conductance, etc.)."
+  },
+
+  "Cognitive Behavioral and Experimental Therapy Research": {
+    "Experimental Psychotherapy Studies": "Randomized controlled trials and lab studies testing mechanisms of cognitive-behavioral and other psychotherapeutic interventions.",
+    "Behavioral Intervention and Training": "Experimental evaluation of learning-based interventions, habit formation, skill acquisition, and behavioral modification."
+  },
+
+  "Experimental Methods and Psychometrics": {
+    "Behavioral Experimentation and Task Design": "Development and validation of experimental paradigms for lab, field, and online studies.",
+    "Measurement and Psychometrics": "Empirical validation of scales, questionnaires, and behavioral metrics using experimental and statistical methods.",
+    "Data Analysis and Replication Studies": "Experimental replication studies, methodological experiments testing new statistical or computational approaches for behavioral data."
+  },
+
+  "Human Factors and Applied Cognitive Science": {
+    "Experimental Human Performance": "Laboratory and simulator experiments on attention, workload, decision-making, and ergonomics.",
+    "Applied Cognition and Usability": "Empirical testing of human-computer interaction, interface design, user experience, and learning technologies.",
+    "Safety and Operational Psychology": "Controlled experiments on performance under stress, multitasking, automation, and error reduction in applied environments."
+  }
+}

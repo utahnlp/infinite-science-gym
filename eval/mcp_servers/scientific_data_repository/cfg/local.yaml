@@ -1,0 +1,3 @@
+simulator:
+  source: local
+  cache_dir: /app/data/fs/

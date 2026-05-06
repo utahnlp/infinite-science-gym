@@ -1,0 +1,28 @@
+{
+  "Statistics": {
+    "Experimental Design and Analysis": "Designing controlled experiments, randomized trials, and factorial studies to test hypotheses across fields such as medicine, agriculture, and engineering, with analysis of resulting data.",
+    "Biostatistics and Epidemiology": "Statistical methods applied to biological and health data, including clinical trials, observational studies, survival analysis, and causal inference from empirical datasets.",
+    "Bayesian Statistics": "Empirical applications of Bayesian modeling, including hierarchical models, prior elicitation, posterior predictive checks, and real-world data analysis in science and engineering.",
+    "High Dimensional and Multivariate Statistics": "Analysis of large-scale and complex datasets, including genomics, neuroimaging, and social network data, with emphasis on empirical validation through simulations and real-world experiments.",
+    "Time Series and Spatial Statistics": "Empirical modeling of temporal and spatial data from climate studies, finance, geosciences, and sensor networks; includes forecasting, spatiotemporal modeling, and measurement-based validation.",
+    "Machine Learning and Statistical Learning": "Empirical development and testing of algorithms for supervised, unsupervised, and reinforcement learning, including cross-validation, benchmark datasets, and real-world evaluation.",
+    "Causal Inference and Observational Studies": "Empirical methods for estimating causal effects from observational data, including instrumental variables, propensity scores, and natural experiments."
+  },
+
+  "Applied Mathematics": {
+    "Computational Science and Simulations": "Numerical experiments, simulations of physical, biological, and engineered systems, verification and validation of computational models using empirical data.",
+    "Mathematical Modeling of Biological Systems": "Empirical modeling of population dynamics, epidemiology, neuroscience, and cellular processes, validated with experimental or observational data.",
+    "Optimization and Control": "Empirical testing of optimization algorithms, control strategies, and operational research models on real-world or experimental datasets, including robotics, energy, and logistics.",
+    "Numerical Analysis and Scientific Computation": "Development and testing of numerical methods (ODEs, PDEs, linear algebra) validated through computational experiments and real-world applications.",
+    "Stochastic Processes and Applications": "Empirical studies of random processes in finance, physics, biology, and queuing systems, including Monte Carlo simulations and comparison with experimental or observational data.",
+    "Dynamical Systems and Complex Systems": "Experimental and computational studies of nonlinear, chaotic, and emergent behavior in engineering, physics, and biological systems, validated with real-world data.",
+    "Network Science and Data Analysis": "Empirical investigation of social, biological, and technological networks, including analysis of connectivity, dynamics, diffusion, and validation against observed network data."
+  },
+
+  "Interdisciplinary Applications": {
+    "Computational Biology and Bioinformatics": "Empirical analysis of genomic, proteomic, and cellular data; development and benchmarking of computational models against experimental datasets.",
+    "Financial and Economic Statistics": "Empirical modeling of market data, risk analysis, econometrics, and simulations to test predictive performance and strategy outcomes.",
+    "Environmental and Earth Data Analysis": "Empirical analysis of climate, geophysical, and ecological datasets; modeling and simulation validated with field measurements and sensor networks.",
+    "Industrial and Engineering Applications": "Applied statistical and computational studies in manufacturing, quality control, logistics, energy systems, and experimental testing of mathematical models in engineered settings."
+  }
+}

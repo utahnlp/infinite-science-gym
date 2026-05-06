@@ -1,0 +1,49 @@
+{
+  "Learning Sciences": {
+    "Cognitive and Motivational Processes": "Experimental studies on how students acquire knowledge and skills, including memory, attention, metacognition, motivation, and engagement in real or simulated learning environments.",
+    "Problem Solving and Reasoning": "Controlled experiments investigating reasoning, conceptual change, and problem-solving strategies across domains like math, science, and computational thinking.",
+    "Technology Enhanced Learning": "Empirical evaluation of digital learning tools, online platforms, simulations, and adaptive learning systems, including randomized trials and A/B testing."
+  },
+  
+  "STEM Education": {
+    "Mathematics Education": "Experiments and quasi-experiments testing instructional approaches, curricula, and interventions in K-12 and higher education mathematics learning.",
+    "Science Education": "Laboratory- and classroom-based studies of science teaching strategies, lab instruction effectiveness, inquiry-based learning, and concept understanding.",
+    "Engineering and Computational Education": "Field experiments and controlled studies on project-based learning, coding education, robotics, and engineering design thinking."
+  },
+  
+  "Literacy and Language Education": {
+    "Reading and Writing": "Experimental studies on literacy interventions, reading comprehension strategies, writing skill development, and early literacy programs.",
+    "Second Language Acquisition": "Empirical studies on teaching methods, immersion programs, bilingual education, and technology-mediated language learning."
+  },
+  
+  "Educational Psychology and Assessment": {
+    "Assessment and Evaluation": "Research on test design, formative and summative assessment, learning analytics, validity/reliability studies, and experimental evaluation of assessment interventions.",
+    "Self Regulated and Metacognitive Learning": "Experiments studying strategies to improve student self-monitoring, goal-setting, and independent learning skills.",
+    "Motivation and Engagement Interventions": "Controlled trials of interventions targeting intrinsic/extrinsic motivation, mindset, interest development, and persistence in learning."
+  },
+  
+  "Teacher Education and Professional Development": {
+    "Pre Service Teacher Training": "Experimental and longitudinal studies evaluating pre-service programs, instructional coaching, and skill acquisition in teacher candidates.",
+    "In Service Professional Development": "Field experiments testing the effectiveness of workshops, mentoring, and collaborative professional learning communities on teacher practice and student outcomes."
+  },
+  
+  "Special Education and Inclusive Education": {
+    "Disability and Learning Differences": "Experimental studies on interventions for students with disabilities, neurodiverse learners, and individualized education programs (IEPs).",
+    "Inclusive Teaching Strategies": "Empirical evaluation of classroom practices, peer support structures, and accommodations to improve learning outcomes for diverse student populations."
+  },
+  
+  "Higher Education and Adult Learning": {
+    "Curriculum and Instruction in Higher Education": "Experiments and quasi-experiments on teaching strategies, flipped classrooms, active learning, and competency-based education in postsecondary contexts.",
+    "Lifelong and Adult Learning": "Empirical studies on adult skill acquisition, continuing education, professional training programs, and workplace learning interventions."
+  },
+  
+  "Education Policy and Program Evaluation": {
+    "Policy Impact Evaluation": "Randomized controlled trials (RCTs), natural experiments, and quasi-experimental studies evaluating the effects of education policies and reforms.",
+    "Program and Intervention Evaluation": "Experimental studies assessing the effectiveness of curricular, technological, or social interventions on learning outcomes and equity."
+  },
+  
+  "Data Science and Learning Analytics": {
+    "Learning Data Analysis": "Experimental and observational studies using large-scale educational datasets, predictive modeling, and A/B testing to study instructional effectiveness and student behavior.",
+    "Adaptive and Personalized Learning Research": "Field trials and lab experiments testing adaptive learning systems, intelligent tutoring systems, and personalization algorithms in real-world educational settings."
+  }
+}

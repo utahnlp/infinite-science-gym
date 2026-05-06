@@ -1,0 +1,43 @@
+name: Scientific Data Repository Simulator
+mcp:
+  name: Scientific Data Repository MCP
+  encoded_name: scientific_data_repository
+  version: v1
+  instructions: >
+    This server provides access to scientific data repositories.
+    Each repository has an integer `id` that identifies it.
+    Every available tool requires this `id` parameter to be specified.
+    Use the `list_directory` tool to list the contents of a directory (similar to bash `ls`).
+    Use the `read_text_file` tool to get the contents of any text file (.csv, .json, .txt, etc.).
+    Use the `read_binary_file` tool to get the base64 encoded contents of any non-text file (.xlsx, .parquet, etc.).
+  tool_descriptions:
+    list_directory: >
+      Get a detailed listing of all files and directories in a specified path.
+      This tool is essential for understanding directory structure and finding specific files within a directory.
+      With the default parameters (prefix='/*' and depth=1), this is similar to the bash `ls /*` command.
+      If you specify a `prefix`, it's like running `ls [PATH]` where `[PATH]` is the prefix.
+      Similar to `ls`, the prefix argument supports both the `*` and `?` wildcards.
+      The `depth` parameter is a positive integer that specifies how deep to recurse when returning results.
+      If you set `depth=None`, all files will be returned (similar to the bash `find` command)
+
+      Here are some example inputs and outputs for repository that contains the path `/a/b/c/d.json`:
+
+      * `list_directory(prefix="/*", depth=1)` returns `/a`.
+
+      * `list_directory(prefix="/a/b", depth=2)` returns `c/d.json`.
+
+      * `list_directory(prefix="/a/b*", depth=2)` returns `c/d.json`.
+    read_text_file: >
+      Read the complete contents of a file from the file system as text.
+      Handles various text encodings and provides detailed error messages if the file cannot be read. 
+      Use this tool when you need to examine the contents of a single file. 
+      Use the 'head' parameter to read only the first N lines of a file, or the 'tail' parameter to read only the last N lines of a file. 
+      Operates on the file as text regardless of extension.
+    read_binary_file: >
+      Read an encoded file.
+      Returns the base64 encoded data and MIME type.
+api: 
+  name: Scientific Data Repository API
+  version: v1
+  description: Provides access to scientific data repositories.
+

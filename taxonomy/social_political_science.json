@@ -1,0 +1,39 @@
+{
+  "Comparative Politics": {
+    "Political Institutions and Governance": "Empirical studies of government structures, electoral systems, legislative behavior, and bureaucratic organization using field data, surveys, and experimental interventions.",
+    "Political Economy": "Experimental and observational research on the interaction of politics and economic outcomes, including development policies, redistribution, and public finance.",
+    "Conflict and Peace Studies": "Field experiments, observational studies, and survey research on civil wars, ethnic conflict, peacebuilding, and post-conflict governance.",
+    "Authoritarianism and Democratization": "Empirical work on regime transitions, democratization processes, and repression, using cross-national data, experiments, and archival research."
+  },
+
+  "International Relations": {
+    "Security and Strategy": "Quantitative and experimental studies of conflict, deterrence, alliances, and military behavior; includes empirical modeling and historical case analysis.",
+    "International Politics of Economy": "Empirical research on trade, sanctions, and global financial interactions, including field studies, natural experiments, and econometric analysis.",
+    "Global Governance and Institutions": "Data-driven studies on the effectiveness of international organizations, treaties, and global policy interventions.",
+    "Peacekeeping and Humanitarian Interventions": "Observational studies and field experiments evaluating interventions, humanitarian aid, and crisis response effectiveness."
+  },
+
+  "Political Behavior and Public Opinion": {
+    "Voting and Elections": "Survey experiments, field experiments, and large-scale observational studies of voting behavior, turnout, and electoral manipulation.",
+    "Political Psychology and Attitudes": "Lab and survey experiments studying ideology, partisanship, polarization, and cognitive factors in political decision-making.",
+    "Civic Engagement and Activism": "Experimental and observational studies of protests, social movements, online activism, and community participation.",
+    "Media and Information Effects": "Field and lab experiments on political communication, misinformation, social media influence, and framing effects."
+  },
+
+  "Policy and Public Administration": {
+    "Public Policy Evaluation": "Field experiments and quasi-experiments testing the effectiveness of government programs, social policies, and regulatory interventions.",
+    "Bureaucratic and Administrative Processes": "Empirical research on bureaucratic efficiency, organizational behavior, and public sector reforms using experimental and observational methods.",
+    "Health, Education, and Social Policy": "Experimental and observational studies evaluating the impact of policies on health, education, and welfare outcomes."
+  },
+
+  "Quantitative and Methodological Political Science": {
+    "Experimental Methods": "Design and implementation of lab, survey, and field experiments in political science to test causal hypotheses.",
+    "Survey Research and Cross-National Data": "Development and empirical application of survey instruments, cross-national datasets, and measurement techniques.",
+    "Computational and Network Analysis": "Empirical modeling of political networks, social media influence, and agent-based simulations validated with real-world data."
+  },
+
+  "Political Ecology and Environment": {
+    "Environmental Policy and Climate Politics": "Field and survey experiments on environmental regulation, climate policy adoption, and behavioral interventions.",
+    "Resource Conflict and Management": "Empirical studies of political interactions over natural resources, including lab-in-the-field experiments and case studies."
+  }
+}

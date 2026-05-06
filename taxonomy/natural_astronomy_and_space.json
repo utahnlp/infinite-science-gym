@@ -1,0 +1,48 @@
+{
+  "Observational Astronomy": {
+    "Optical and Near-Infrared Astronomy": "Observations through visible and near-IR telescopes, imaging, photometry, spectral studies of stars, galaxies, transients; exoplanet detection (transits, direct imaging).",
+    "Infrared and Mid-to-Far IR astronomy": "Infrared telescopes and instruments (ground and space) examining dust, star-forming regions, galaxy evolution, protostellar disks, molecular clouds.",
+    "Submillimeter and Millimeter Wavelength Astronomy": "Observations of cold gas, dust emission; studies of the interstellar medium, cosmic microwave background foregrounds; high-redshift galaxies via ALMA, etc.",
+    "Radio Astronomy": "Surveys of radio sources (galaxies, pulsars, AGN, HI mapping), fast radio bursts; radio interferometry; 21-cm cosmology; SKA pathfinder science.",
+    "Ultraviolet Astronomy": "Observations of hot stars, interstellar medium ionization states, galactic halos; space-based UV telescopes/instruments.",
+    "X-ray Astronomy": "High-energy processes: observations of black holes, neutron stars, supernova remnants, galaxy clusters; X-ray satellites, detectors characterization.",
+    "Gamma-Ray Astronomy": "Very high energy phenomena: gamma-ray bursts, active galactic nuclei jets, cosmic gamma background; ground arrays and space-based gamma satellites.",
+    "Gravitational Wave Astronomy": "Detection of gravitational waves from compact binary mergers, continuous sources; networks like LIGO, Virgo, KAGRA; instrumentation, data pipelines, and follow-ups.",
+    "Neutrino Astronomy and Multimessenger Astronomy": "Detection of astrophysical neutrinos; correlating neutrino signals with electromagnetic or gravitational wave signals; multimessenger campaigns.",
+    "Time Domain and Transient Astronomy": "Surveys and observations of variable and transient phenomena (supernovae, kilonovae, tidal disruption events, fast transients); real-time follow-up and multiwavelength coordination."
+  },
+  "Planetary Science and Solar System Studies": {
+    "Planetary Surface and Geology": "Landed / orbiter imaging and spectroscopy of planetary surfaces; geology, tectonics, impact cratering; regolith studies.",
+    "Atmospheres and Meteorology of Planets and Moons": "Remote and in situ measurements of atmospheric composition, dynamics, climate; cloud physics; aerosol/dust; meteorology on other worlds.",
+    "Planetary Interiors and Magnetospheres": "Gravity, magnetic field mapping; seismology (e.g. Mars, Moon); modeling and measurement of cores; studies of planetary dynamo effects; interaction with solar wind.",
+    "Small Bodies and minor solar system objects": "Asteroids, comets, Kuiper Belt / Centaur objects; sample return missions, telescopic observations of shape, composition, activity.",
+    "Planetary Ring Systems and Satellites": "Dynamics, composition, structure of rings; satellite geology, orbital interactions; tidal heating; sub-surface oceans in icy moons.",
+    "Exoplanets and Planetary Formation": "Transit and radial velocity measurements; direct imaging; atmospheric characterization; disk observations and theory; protoplanetary disks, planet formation processes."
+  },
+  "Solar and Heliophysics": {
+    "Solar Physics": "Solar surface & atmosphere studies: sunspots, flares, coronal mass ejections; solar magnetic field measurements; helioseismology; energy transport in solar atmosphere.",
+    "Solar Wind and Heliospheric Physics": "In situ measurements of solar wind, particle acceleration, interplanetary space; heliospheric current sheet; interactions with planetary magnetospheres.",
+    "Space Weather and Magnetospheric Science": "Observations (satellites, ground) of how solar output affects Earth's magnetosphere; radiation belts; aurora; instrumentation to monitor space-environment effects."
+  },
+  "Galactic and Extragalactic Astronomy": {
+    "Stellar Astronomy and Star Formation": "Observational programs of stellar populations; formation of stars; protostellar cores; stellar evolution stages; stellar multiplicity; cluster dynamics.",
+    "Galactic Structure and Dynamics": "Mapping our Galaxy's structure (disk, bulge, halo); kinematics and dynamics from surveys (Gaia etc.); interstellar medium structure; chemical abundances.",
+    "Galaxy Formation and Evolution": "Observations across cosmic time of galaxy morphology, star formation rates, mergers; surveys with large telescopes; environmental effects; quenching processes.",
+    "Active Galactic Nuclei and Black Hole Astrophysics": "Observations of supermassive black holes; jets; accretion disks; feedback; AGN variability; reverberation mapping; high-energy emission.",
+    "Galaxy Clusters and Large Scale Structure": "Observations of clusters (mass, temperature, gas); weak and strong lensing; cosmic web mapping; cluster evolution; dark matter distributions.",
+    "Interstellar and Intergalactic Medium (ISM / IGM)": "Studies of gas and dust between stars / galaxies; absorption / emission lines; cooling/heating, metal enrichment; Lyman-alpha forest; cosmic reionization."
+  },
+  "Cosmology and CMB": {
+    "Cosmic Microwave Background (CMB) Observations": "Measurement of CMB anisotropies, B-mode polarization, lensing; experiments like ground-, balloon-, and space-based CMB missions; foreground characterization.",
+    "Large Scale Structure Surveys": "Galaxy redshift surveys, weak lensing surveys, clustering, baryon acoustic oscillations; mapping dark matter / dark energy effects over large volumes.",
+    "Dark Matter and Dark Energy experiments": "Observational probes to constrain dark matter properties; gravitational lensing; supernova cosmology; large surveys; direct detection overlap (when astrophysical signals).",
+    "Cosmological Transient Events": "Observations of rare, early-universe events—e.g. first stars, Population III; high redshift GRBs; reionization epoch; early galaxy formation.",
+    "21 cm Cosmology and High-Redshift Universe": "Experiments observing 21 cm signals from neutral hydrogen; probing cosmic dawn / reionization; global signal and mapping with radio arrays."
+  },
+  "Instrumentation and Laboratory Astrophysics": {
+    "Telescope and Detector Development": "Design, calibration, and performance testing of imaging, spectroscopic, photometric, radio, IR, UV, X-, gamma-ray detectors; adaptive optics; large ground and space telescopes.",
+    "Laboratory Astrophysics": "Measurements of atomic/molecular spectra, reaction cross-sections, dust grain properties under space-like conditions; opacity, equation of state; simulation of astrophysical environments in the lab. “Lab astro” to support interpretation of observations.",
+    "Flight Missions and Payload Experiments": "Spacecraft / satellites / probes: mission design, in-situ sensors; remote sensing instruments; calibration; mission data acquisition and initial data processing.",
+    "Survey Instrumentation and Sky Surveys": "Design and execution of large scale surveys (optical, radio, IR etc.); pipeline development; calibration; data systematics mitigation."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Human Geography": {
+    "Urban and Regional Geography": "Empirical studies of urban development, spatial segregation, transportation systems, and land-use change using surveys, GIS analysis, field measurements, and remote sensing.",
+    "Economic Geography": "Field and survey-based research on regional economies, trade patterns, innovation clusters, and spatial distribution of industries.",
+    "Political and Policy Geography": "Empirical research on territorial governance, border dynamics, policy impacts, electoral geography, and resource management.",
+    "Cultural and Social Geography": "Fieldwork, ethnography, and survey experiments examining cultural landscapes, social networks, migration patterns, and community dynamics."
+  },
+
+  "Physical Geography": {
+    "Geomorphology": "Experimental and observational research on landform evolution, river and glacier dynamics, erosion, sediment transport, and landscape modeling.",
+    "Climatology and Meteorology": "Field measurements, weather station data, and climate monitoring to study atmospheric processes, extreme events, and microclimate variability.",
+    "Hydrology and Water Resources": "Empirical monitoring and modeling of surface water, groundwater, watershed dynamics, flood risk, and water management interventions.",
+    "Biogeography and Ecosystem Distribution": "Field surveys, remote sensing, and ecological sampling to study species distribution, habitat changes, and ecological connectivity."
+  },
+
+  "Geospatial Technologies and Methods": {
+    "GIS and Spatial Analysis": "Application of geographic information systems to empirical data for mapping, spatial modeling, and pattern analysis.",
+    "Remote Sensing and Satellite Observation": "Satellite and aerial imagery acquisition, field calibration, and empirical analysis of land cover, urban growth, and environmental change.",
+    "Cartography and Spatial Data Visualization": "Experimental work on visual perception, map design, usability testing, and interactive mapping tools."
+  },
+
+  "Population Studies and Demography": {
+    "Population Dynamics and Fertility": "Empirical studies using censuses, surveys, and longitudinal data to measure fertility trends, population growth, and age structure changes.",
+    "Migration and Mobility": "Field surveys, administrative data, and tracking studies to examine internal and international migration, commuting, and mobility patterns.",
+    "Mortality and Health Demography": "Observational studies using vital statistics, cohort tracking, and public health surveys to investigate mortality, life expectancy, and health disparities.",
+    "Household and Family Demography": "Empirical research on family composition, household formation, intergenerational dynamics, and household economic behavior."
+  },
+
+  "Environmental and Climate Demography": {
+    "Human Environmental Interactions": "Field studies and surveys investigating the impact of environmental change on populations, resource use, and vulnerability.",
+    "Climate Impact on Population": "Empirical analysis of migration, adaptation strategies, and health outcomes in response to climate variability and extreme events.",
+    "Disaster and Risk Studies": "Observational and survey-based research on hazard exposure, community resilience, and emergency response effectiveness."
+  },
+
+  "Experimental and Quantitative Geography": {
+    "Spatial Econometrics and Statistics": "Empirical modeling of spatially structured data using regression, Bayesian methods, and experimental interventions.",
+    "Natural Experiment and Field Experiment Geography": "Controlled and quasi-experimental studies in urban planning, resource management, and social policy interventions with geospatial data.",
+    "Agent Based and Simulation Experiments": "Empirical calibration and validation of agent-based models and simulations with observational or survey-collected data."
+  }
+}

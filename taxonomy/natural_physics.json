@@ -1,0 +1,102 @@
+{
+  "Atomic Molecular Optical Physics": {
+    "Atomic Physics": "Precision spectroscopy, cold-atom experiments, atomic clocks, tests of fundamental symmetries, and measurements of atomic collisions and scattering.",
+    "Molecular Physics": "Molecular beam experiments, gas-phase reaction dynamics, high-resolution molecular spectroscopy, and studies of energy transfer and chemical reaction mechanisms.",
+    "Optical Physics Photonics": "Laboratory and device-level experiments on lasers, nonlinear optics, ultrafast optics, optical metamaterials, and photonic integrated circuits.",
+    "AMO Quantum Control": "Experimental quantum control, coherent manipulation of atoms/molecules/photons, reservoir engineering, and atom-light interfaces for sensing and information."
+  },
+
+  "Condensed Matter and Materials Physics": {
+    "Experimental Condensed Matter": "Transport, thermodynamic, and spectroscopic experiments on solids and liquids; quantum materials, correlated electrons, and topological phases.",
+    "Soft Matter and Biophysics Materials": "Rheology, colloids, polymers, liquid crystals, and experiments at the interface of materials and living systems.",
+    "Nanoscience and Nanofabrication": "Device fabrication and characterization (e.g., quantum dots, 2D materials), scanning probe microscopy, and nanoscale transport measurements.",
+    "Materials Synthesis and characterization": "Synthesis (thin films, crystals), x-ray/neutron scattering, electron microscopy, and property measurements for novel functional materials."
+  },
+
+  "Quantum Information and Technologies": {
+    "Quantum Computing Experiments": "Superconducting qubits, trapped ions, photonic qubits, semiconductor spin qubits — device fabrication, benchmarking, error characterization, and scaling experiments.",
+    "Quantum Communication and Networks": "Quantum key distribution demonstrations, entanglement distribution across fibers/free-space, and field trials of quantum links.",
+    "Quantum Sensing and Metrology": "Experimental quantum-enhanced sensors, atomic/optical clocks, gravimetry, and magnetometry using entanglement/squeezing."
+  },
+
+  "High Energy and Particle Physics Experimental": {
+    "Collider Experiments": "Large-scale experiments at colliders (detector operation, data-taking, searches for new particles, precision measurements of standard-model processes).",
+    "Fixed Target and Intensity Frontier": "Neutrino beam experiments, rare-decay searches, and precision measurements using intense beams and fixed-target setups.",
+    "Cosmic Ray and Astroparticle Detectors": "Ground- and space-based detectors for cosmic rays, neutrinos, and gamma rays; instrument development and data analyses of observed events."
+  },
+
+  "Nuclear Physics Experimental": {
+    "Nuclear Structure and Reactions": "Experiments probing nuclear properties (spectroscopy, reaction cross-sections) using accelerators and radioactive beams.",
+    "Nuclear Astrophysics": "Laboratory measurements of reaction rates relevant to stellar processes and experiments simulating extreme nuclear conditions.",
+    "Applied Nuclear Instrumentation": "Detector development, mass spectrometry, and experimental work for nuclear energy and medical isotope production."
+  },
+
+  "Astrophysics Space and Planetary Physics": {
+    "Observational Astrophysics": "Telescope-based observational campaigns across the electromagnetic spectrum; instrument calibration and survey science.",
+    "Experimental Cosmology": "CMB experiments, large-scale structure surveys, and observational probes of dark matter/dark energy using ground/space instruments.",
+    "Planetary Science and Space Physics": "Spacecraft instrument experiments, in-situ measurements, laboratory planetary analog experiments and plasma interactions in the heliosphere."
+  },
+
+  "Plasma Physics and Fusion": {
+    "Magnetic Fusion Experiments": "Tokamak/stellerator experiments, plasma confinement studies, diagnostics development, and materials testing for fusion environments.",
+    "Inertial Confinement Fusion": "Laser-driven implosion experiments, target fabrication, and diagnostics from high-energy-density facilities.",
+    "Basic Plasma Experiments": "Laboratory plasma devices for turbulence, waves, reconnection, and dusty/plasma-surface interaction studies."
+  },
+
+  "Optics and Experimental Photonics": {
+    "Nonlinear and Ultrafast Optics": "Pump-probe experiments, ultrafast spectroscopy, and high-harmonic generation experiments.",
+    "Integrated Photonics and Lasers": "Fabrication and testing of on-chip photonic devices, laser development, and optical interconnect experiments.",
+    "Imaging and Spectroscopy Instrumentation": "Development and experimental application of advanced imaging, microscopy, and spectroscopic techniques."
+  },
+
+  "Accelerator Physics and Instrumentation": {
+    "Accelerator Experiments and technology": "Design, construction, and beam experiments in accelerators; advanced accelerator concepts and beam physics demonstrations.",
+    "Detector and Instrumentation Development": "Design, fabrication, and performance testing of particle detectors, readout electronics, and large-scale experimental infrastructure."
+  },
+
+  "Space Plasma and Space Physics": {
+    "Magnetospheric and Ionospheric Experiments": "In-situ satellite measurements, sounding rockets, and ground-based coordinated campaigns studying space-weather plasmas.",
+    "Heliophysics instrumentation": "Solar wind and solar energetic particle detection, instrumentation tests on spacecraft and laboratory analog experiments."
+  },
+
+  "Fluid Dynamics and Nonlinear Dynamics": {
+    "Experimental Fluid Mechanics": "Wind-tunnel and water-tank experiments, turbulence measurement, aero/hydrodynamics, and flow control studies.",
+    "Nonlinear and Complex Systems": "Laboratory experiments on nonlinear oscillators, pattern formation, granular media, and laboratory networks testing emergent behaviors."
+  },
+
+  "Biological and Medical Physics": {
+    "Biophysics Experiments": "Single-molecule/biomolecular experiments, cellular mechanics, optical tweezers, and experimental work on active matter.",
+    "Medical Physics and imaging": "Development and experimental validation of medical imaging modalities (MRI, CT, PET), radiation therapy physics, and instrument calibration."
+  },
+
+  "Geophysics and Earth physics": {
+    "Seismology and Earth structure": "Field experiments, seismic array observations, and laboratory rock physics experiments simulating geophysical conditions.",
+    "Geophysical fluid dynamics and climate instrumentation": "Experimental oceanographic/atmospheric measurements, instrument campaigns, and laboratory analogs of geophysical flows."
+  },
+
+  "Statistical Physics and Experimental Thermodynamics": {
+    "Experimental Statistical Mechanics": "Experiments on critical phenomena, phase transitions, fluctuation theorems, and driven-dissipative systems.",
+    "Stochastic and nonequilibrium experiments": "Laboratory realizations of nonequilibrium steady states, active matter experiments, and mesoscopic thermodynamics."
+  },
+
+  "Surface Science and vacuum techniques": {
+    "Surface and interface experiments": "Surface-sensitive spectroscopy, thin-film growth experiments (MBE, CVD), adsorption/desorption studies, and interface transport measurements.",
+    "Ultra high vacuum and surface analyses": "Development and experimental use of UHV techniques, surface microscopy, and contamination studies."
+  },
+
+  "Atomic scale and low temperature physics": {
+    "Cryogenic and low temperature experiments": "Millikelvin/cryostat experiments, superconductivity measurements, and low-temperature transport and calorimetry.",
+    "Scanning Probe and local probe experiments": "AFM/STM-based experiments probing local electronic/structural properties and single-atom manipulation."
+  },
+
+  "Applied Physics and Interdisciplinary experimental": {
+    "Energy conversion and storage experiments": "Experimental research into batteries, photovoltaics, thermoelectrics, and catalysis with physics-based measurement methods.",
+    "Environmental and sustainability physics experiments": "Laboratory and field experiments for sensors, remediation technologies, and physical aspects of climate-relevant processes.",
+    "Instrumentation for interdisciplinary research": "Design and experimental validation of physics instruments used in biology, chemistry, engineering, and planetary science."
+  },
+
+  "Physics Education Research and Science Sociotechnical studies": {
+    "Experimental physics education research": "Empirical classroom/assessment experiments, controlled studies of pedagogical interventions, and measurement of learning outcomes.",
+    "Physics in society instrumentation studies": "Experimental trials of outreach tools, citizen-science instrumentation, and applied studies of measurement reliability in social contexts."
+  }
+}

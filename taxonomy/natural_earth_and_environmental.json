@@ -1,0 +1,114 @@
+{
+  "Atmospheric Sciences": {
+    "Atmospheric Observations and Field Campaigns": "In-situ and remote measurements of atmospheric state and composition (radiosondes, aircraft, ground stations, field campaigns) to study processes from boundary layer to upper atmosphere.",
+    "Atmospheric Chemistry and Aerosols": "Laboratory and field experiments measuring gas-phase chemistry, heterogeneous reactions, aerosol formation, composition, and impacts on air quality and climate.",
+    "Boundary Layer and Microphysics": "Experimental studies of turbulence, cloud microphysics, precipitation formation, and exchange processes at the surface-atmosphere interface.",
+    "Weather and Mesoscale processes": "Instrumented campaigns, radar/lidar studies, and testbeds for convective systems, severe weather, and mesoscale dynamics."
+  },
+
+  "Climate Science and Meteorology": {
+    "Paleoclimatology and Proxy measurements": "Empirical reconstruction of past climates using ice cores, tree rings, speleothems, sediments, and laboratory calibration of proxies.",
+    "Observational Climate Monitoring": "Long-term instrumental records (satellite/ground networks), calibration/validation experiments, and detection/attribution observational studies.",
+    "Process-level Climate Field Studies": "Field experiments and observations targeting carbon/energy/water fluxes, cloud-aerosol interactions, and regional climate processes."
+  },
+
+  "Oceanography and Limnology": {
+    "Physical Oceanography": "Shipboard and autonomous platform measurements of currents, stratification, mixing, and waves (moorings, gliders, ADCPs).",
+    "Chemical Oceanography and Water Chemistry": "In-situ and lab analyses of ocean/limnological chemistry, nutrient cycles, acidification experiments, and tracer studies.",
+    "Biological Oceanography and Limnology": "Field and lab experiments on plankton ecology, food-web dynamics, microbial processes, and productivity measurements.",
+    "Coastal and Marine Process Studies": "Observational/experimental work on estuaries, coasts, sediment transport, erosion, and marsh/reef ecology."
+  },
+
+  "Hydrology and Water Resources": {
+    "Surface Water Hydrology": "Field measurements and experiments on streamflow, flood processes, watershed monitoring, and tracer-based transport studies.",
+    "Groundwater and Hydrogeology": "Well tests, pumping experiments, tracer tests, aquifer characterization, and contaminant transport experiments.",
+    "Ecohydrology and Integrated water systems": "Coupled field/lab studies linking vegetation, soils, and hydrologic fluxes; manipulative experiments on water availability and land-use impacts.",
+    "Cryohydrology and glacial hydrology": "Observations and experiments on glacier/ice-sheet meltwater, subglacial drainage, and frozen-ground hydrology."
+  },
+
+  "Geology and Solid Earth": {
+    "Mineralogy and Petrology experiments": "Laboratory synthesis and characterization of minerals, metamorphic experiments, petrologic analyses, and rock deformation tests.",
+    "Sedimentology and Stratigraphy field work": "Field-based sedimentary logging, core sampling, depositional-process experiments, and provenance studies.",
+    "Volcanology and eruption processes": "Field monitoring of active volcanoes, lab experiments on magma rheology/fragmentation, and instrumented eruption observations.",
+    "Economic geology and resource field studies": "Empirical mapping, core analysis, geochemical assays, and field trials related to minerals, hydrocarbons, and geothermal resources."
+  },
+
+  "Geophysics and Tectonics": {
+    "Seismology and Earthquake field experiments": "Deployment and analysis of seismic networks, active-source experiments, earthquake rupture observations and laboratory rock-failure tests.",
+    "Geodesy and deformation measurements": "GPS, InSAR, tide-gauge and strainmeter observations used in field and campaign modes to measure crustal deformation and sea-level change.",
+    "Tectonophysics and fault zone processes": "Laboratory rock-mechanics experiments, borehole observatories, and field studies of fault slip, frictional behavior, and slow earthquakes.",
+    "Marine geophysics and subsurface imaging": "Seismic reflection/refraction surveys, marine magnetics/gravity and controlled-source experiments for crust and sediment structure."
+  },
+
+  "Geochemistry and Biogeochemistry": {
+    "Isotope geochemistry and tracer studies": "Laboratory and field measurements of stable and radiogenic isotopes to trace processes (water, carbon, nutrient cycles).",
+    "Elemental cycles and soil chemistry": "Empirical studies of soil/rock weathering, nutrient fluxes, redox processes, and experimental biogeochemical manipulations.",
+    "Contaminant fate and remediation experiments": "Field and lab experiments on pollutant transport, transformation, bioavailability, and remediation technologies."
+  },
+
+  "Cryosphere Science": {
+    "Glaciology and ice sheet processes": "Field campaigns, ice-core drilling, GPS/ground-penetrating radar surveys, and lab experiments on ice rheology and melt processes.",
+    "Sea ice and polar ocean interactions": "Observational programs and mesocosm/lab experiments studying sea-ice thermodynamics, salt/freshwater fluxes, and ecosystem coupling.",
+    "Permafrost and thermokarst studies": "Field monitoring and laboratory simulations of frozen-ground thaw, greenhouse-gas emissions, and soil carbon dynamics."
+  },
+
+  "Soil and Sediment Science": {
+    "Soil physics and hydrology": "Laboratory and field experiments on soil hydraulic properties, infiltration, and water retention under natural and disturbed conditions.",
+    "Soil biogeochemistry and microbial processes": "Manipulative experiments measuring nutrient cycling, microbial community responses, decomposition, and greenhouse-gas fluxes.",
+    "Sediment transport and reservoir studies": "Flume, core, and field measurements of sediment erosion, deposition, and sediment-bound contaminant transport."
+  },
+
+  "Geomorphology and Surface processes": {
+    "Fluvial and coastal morphodynamics": "Field surveys, laboratory flume experiments, and time-series observations of channel/coast evolution, sediment budgets, and erosion.",
+    "Landslides and hillslope processes experiments": "Field monitoring, scaled physical experiments, and instrumented slope testing to study failure mechanics and triggers.",
+    "Periglacial and glacial landforms": "Field mapping, controlled experiments, and remote observations of landforms produced by freeze-thaw and glacial processes."
+  },
+
+  "Paleosciences and Paleoenvironmental research": {
+    "Paleontology and taphonomy field work": "Excavation, collection, laboratory preparation, and experiments testing fossilization, ecologies, and organismal responses to past environments.",
+    "Stratigraphic correlation and geochronology": "Empirical dating (radiometric, paleomagnetic), core correlation, and lab calibration of chronostratigraphic methods.",
+    "Paleoecology and paleoenvironmental reconstruction": "Multiproxy analyses (fossils, isotopes, biomarkers) and lab-based calibration of environmental proxies."
+  },
+
+  "Ecology and Ecosystem Science": {
+    "Ecosystem field experiments and manipulations": "Large- and small-scale field experiments on productivity, biodiversity-function relationships, nutrient/energy flux manipulations (LTER, EC experiments).",
+    "Community and population ecology experiments": "Empirical lab and field studies on species interactions, demographic experiments, and experimental translocations.",
+    "Urban and landscape ecology field studies": "Experimental studies of urban ecosystems, fragmentation, green infrastructure, and anthropogenic impacts on ecological processes."
+  },
+
+  "Environmental Science and Engineering": {
+    "Air quality and pollution measurements": "Instrumentation, field monitoring campaigns, and chamber experiments measuring pollutants, sources, and exposure.",
+    "Water quality and treatment experiments": "Laboratory and pilot-scale trials for contaminant removal, sensor calibration, and watershed remediation techniques.",
+    "Renewable energy and environmental impacts": "Empirical assessments of environmental effects of wind, solar, and hydro installations; measurement-driven optimization and mitigation trials."
+  },
+
+  "Remote Sensing Geospatial and Data-driven observation": {
+    "Satellite and Airborne remote sensing": "Sensor development, calibration/validation, field campaigns, and empirical retrievals (optical, radar, lidar, hyperspectral).",
+    "Unmanned and autonomous platforms": "Development and field deployment of gliders, drones, floats and autonomous sensors for targeted measurements and surveys.",
+    "Geospatial field validation and product development": "Ground-truthing campaigns, algorithm testing, LiDAR/photogrammetry field surveys, and creation of observational data products."
+  },
+
+  "Environmental Health and Toxicology": {
+    "Exposure science and environmental monitoring": "Field and lab measurements of human/environmental exposures to contaminants (air, water, soil), biomonitoring, and dosimetry studies.",
+    "Ecotoxicology and bioassays": "Controlled lab and mesocosm experiments testing contaminant effects on organisms, trophic transfer, and population-level impacts.",
+    "Environmental microbiology and pathogen ecology": "Empirical studies of microbial transport, survival, antibiotic resistance, and pathogen-environment interactions in natural and engineered systems."
+  },
+
+  "Critical Zone and Systems science": {
+    "Critical Zone observatories and integrated field sites": "Long-term, instrumented field observatories measuring coupled atmosphere-biosphere-soil-rock processes and water/element fluxes.",
+    "Weathering soil formation and landscape evolution experiments": "Field and lab process experiments on chemical/mechanical weathering, soil genesis, and subsurface flow affecting landscape change.",
+    "Coupled human natural systems observations": "Empirical studies and field trials linking land use, management practices, and physical/environmental responses at watershed and landscape scales."
+  },
+
+  "Planetary and space geoscience": {
+    "Planetary field analogs and lab simulations": "Terrestrial analog studies, high-pressure/temperature lab simulations, and instrument tests for planetary missions.",
+    "Spacecraft instrumentation and sample analysis": "Experimental development and lab characterization of spaceflight instruments; laboratory analysis of returned samples and meteorites.",
+    "Astrogeology and exogeomorphology observations": "Remote sensing and comparative field studies using telescopic/spacecraft data validated against Earth-based experiments."
+  },
+
+  "Instrumentation methods and techniques": {
+    "Analytical and lab method development": "Development and empirical validation of geochemical, isotopic, and biological laboratory methods and standards.",
+    "Field instrument development and calibration": "Design, testing, and intercomparison of sensors, samplers, and autonomous platforms under real-world conditions.",
+    "Data assimilation and observatory protocols": "Empirical experiments on sampling design, sensor networks, calibration/validation protocols, and reproducibility of field observations."
+  }
+}

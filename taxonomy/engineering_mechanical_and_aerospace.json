@@ -1,0 +1,57 @@
+{
+  "Fluid Dynamics and Aerodynamics": {
+    "Experimental Aerodynamics": "Wind tunnel and flight-test experiments on airfoils, wings, aircraft, and rotorcraft to measure lift, drag, and flow characteristics.",
+    "Turbulence and Transition Experiments": "Laboratory and wind tunnel studies on turbulent flows, boundary-layer transition, vortex dynamics, and turbulence control.",
+    "Compressible and Hypersonic Flows": "Experimental research on supersonic and hypersonic flow phenomena, shock-wave interactions, and high-speed wind tunnel measurements.",
+    "Multiphase and CFD validation Experiments": "Laboratory studies of multiphase flows, particle-laden flows, and validation datasets for computational models."
+  },
+
+  "Solid Mechanics and Materials": {
+    "Experimental Mechanics": "Mechanical testing of materials and structures including tension, compression, fatigue, fracture, and impact testing.",
+    "Structural Health Monitoring": "Development and experimental deployment of sensors for damage detection, vibration analysis, and nondestructive evaluation.",
+    "Composite and Advanced Materials": "Fabrication, mechanical testing, and environmental exposure experiments on composites, metamaterials, and multifunctional materials.",
+    "Micro and Nano Mechanics": "Lab-scale experiments on MEMS/NEMS devices, micro-structured materials, and nanoscale mechanical properties."
+  },
+
+  "Thermal and Energy Systems": {
+    "Experimental Thermodynamics": "Laboratory measurements of heat transfer, energy conversion, combustion, and phase-change processes.",
+    "Fluid-Thermal Systems": "Experimental studies of pumps, turbines, heat exchangers, HVAC systems, and thermal management technologies.",
+    "Combustion and Propulsion Experiments": "Engine testing, combustion chamber experiments, fuel spray and ignition studies, and emissions measurements.",
+    "Renewable and Energy Conversion Experiments": "Lab-scale experiments on wind turbines, solar thermal systems, bioenergy, and experimental validation of energy-harvesting devices."
+  },
+
+  "Aerospace Vehicles and Systems": {
+    "Aircraft and UAV Experimental Research": "Flight testing, wind tunnel validation, structural and aerodynamic measurements, and control system experiments for aircraft and drones.",
+    "Spacecraft and Rocket Experiments": "Propulsion system testing, trajectory validation, materials testing in simulated space environments, and subsystem integration experiments.",
+    "Rotorcraft and VTOL Experimental Research": "Testing of helicopter rotors, tiltrotors, and emerging VTOL vehicles under controlled lab and flight conditions.",
+    "Flight Safety and Aeroelasticity": "Experimental studies of flutter, aeroelastic effects, vibration, and stability testing for manned and unmanned vehicles."
+  },
+
+  "Control and Robotics": {
+    "Experimental Control Systems": "Hardware-in-the-loop testing, mechatronics experiments, real-time control of mechanical systems, and feedback validation.",
+    "Robotics andAutonomous Vehicles": "Experimental development and testing of ground, aerial, and underwater robots, including sensors, actuators, and navigation systems.",
+    "Dynamics and Vibration Experiments": "Lab and field experiments on dynamic response, structural vibrations, damping, and active vibration control of mechanical systems."
+  },
+
+  "Manufacturing and Production Engineering": {
+    "Experimental Manufacturing Processes": "Testing and optimization of machining, additive manufacturing, casting, and forming processes under lab conditions.",
+    "Materials Processing and Characterization": "Experimental studies of microstructure development, thermal treatments, surface finishing, and material property testing.",
+    "Industrial Engineering and Fabrication Experiments": "Experimental validation of production workflows, robotics-assisted manufacturing, and automation testing."
+  },
+
+  "Experimental Measurement and Instrumentation": {
+    "Experimental Fluid and Thermal Measurements": "Development and use of sensors and measurement techniques for flow, temperature, and pressure in lab and field experiments.",
+    "Structural and Material Sensing": "Experimental deployment of strain gauges, digital image correlation, laser Doppler vibrometry, and other techniques to validate models.",
+    "Aerospace Sensor Development": "Experimental design and calibration of flight instruments, MEMS sensors, LIDAR, and navigation measurement systems."
+  },
+
+  "Biomechanics and Bioengineering Applications": {
+    "Experimental Biomechanics": "Laboratory testing of human motion, tissue mechanics, prosthetics, and wearable devices under controlled conditions.",
+    "Bio-inspired and Bio-mimetic Systems": "Experimental development of mechanically inspired robots, adaptive materials, and devices mimicking biological systems."
+  },
+
+  "Experimental Applied Energy and Environment": {
+    "Experimental Aerothermal and Environmental Flows": "Lab and field experiments on wind energy, urban aerodynamics, pollutant dispersion, and HVAC system validation.",
+    "Experimental Energy Storage and Conversion": "Battery, fuel cell, and thermal storage experiments; integration testing with mechanical and aerospace systems."
+  }
+}

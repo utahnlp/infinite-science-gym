@@ -1,0 +1,19 @@
+# Server
+astor
+fastapi
+pydantic
+uvicorn
+fastmcp
+pyyaml
+
+# Simulator
+numpy
+pandas
+scipy>=1.17.0
+transformers
+torch
+XlsxWriter
+
+# Evaluation
+anthropic
+openai

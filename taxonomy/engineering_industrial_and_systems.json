@@ -1,0 +1,49 @@
+{
+  "Manufacturing and Production Systems": {
+    "Advanced Manufacturing and Production": "Empirical studies on smart factories, additive manufacturing, CNC/machining experiments, process monitoring, and production line optimization through pilot studies.",
+    "Industrial Robotics and Automation": "Experimental testing of robotic systems, collaborative robots, sensor integration, and human-robot interaction in production environments.",
+    "Quality Control and Process Improvement": "Design and execution of controlled experiments to assess process capability, Six Sigma interventions, statistical process control, and real-time monitoring in manufacturing."
+  },
+
+  "Operations Research and Systems Experimentation": {
+    "Simulation and digital twin experiments": "Validation of digital twin models through lab or field experiments, discrete-event simulations, and scenario-based testing of complex systems.",
+    "Empirical Inventory and Supply Chain Studies": "Field experiments and pilot programs evaluating inventory policies, logistics interventions, demand forecasting accuracy, and supply chain resilience.",
+    "Service and Operations Management Experiments": "Controlled trials and observational studies of service process design, queuing interventions, and workflow improvements."
+  },
+
+  "Human Factors and Ergonomics": {
+    "Cognitive and Physical Human Factors": "Laboratory and field experiments measuring human performance, error rates, workload, decision-making, and interface usability.",
+    "Ergonomic Design and Workplace Studies": "Experimental evaluation of workstation designs, assistive technologies, occupational safety interventions, and human-centered system improvements.",
+    "Human-Robot and Human-AI Interaction": "Empirical studies on trust, collaboration, and efficiency in environments where humans interact with automation or AI agents."
+  },
+
+  "Systems Engineering and Complex Systems": {
+    "Complex Systems Experimentation": "Laboratory or field experiments analyzing networks, system-of-systems behavior, resilience testing, and emergent phenomena.",
+    "Reliability and Maintenance Engineering": "Empirical studies of system reliability, predictive maintenance strategies, degradation testing, and maintenance scheduling interventions.",
+    "Safety and Risk Management Experiments": "Controlled trials of safety interventions, risk assessment methods, incident simulations, and hazard mitigation in industrial systems."
+  },
+
+  "Data Analytics and Experimental Information Systems": {
+    "Applied Data Analytics and Experimental Validation": "Experiments using real operational data to validate predictive models, optimization heuristics, and process interventions.",
+    "Industrial Internet of Things and Sensor Experiments": "Empirical studies deploying sensors in production systems, monitoring infrastructure, and validating IIoT interventions.",
+    "Human-Centered Information Systems": "Experimental evaluation of dashboards, decision-support tools, and information-flow designs for operators and managers."
+  },
+
+  "Logistics and Transportation Systems": {
+    "Experimental Warehouse and Distribution Studies": "Field trials of warehouse layouts, picking strategies, autonomous material handling, and process optimization.",
+    "Transportation and Mobility Experiments": "Controlled tests of traffic management interventions, vehicle routing experiments, public transit pilot studies, and freight system field trials.",
+    "Supply Chain Resilience and Risk Experiments": "Empirical investigations of supply disruptions, redundancy planning, and adaptive logistics strategies under experimental conditions."
+  },
+
+  "Energy Systems and Sustainability Engineering": {
+    "Industrial Energy Management Experiments": "Laboratory and field tests of energy-efficiency measures, demand-response strategies, and renewable integration in industrial systems.",
+    "Sustainable Operations Experiments": "Experimental evaluation of circular economy practices, waste reduction interventions, and environmental footprint minimization in operations.",
+    "Human and Social Aspects of Sustainable Systems": "Field studies and controlled trials assessing adoption, behavioral interventions, and workforce engagement for sustainable practices."
+  },
+
+  "Healthcare and Biomedical Systems Engineering": {
+    "Hospital and Healthcare Workflow Experiments": "Empirical studies optimizing patient flow, staffing schedules, clinical operations, and process redesign in hospitals and clinics.",
+    "Medical Device and Human-Factors Experiments": "Laboratory and in-situ testing of medical devices, user interaction studies, and safety evaluation of medical technologies.",
+    "Healthcare Supply Chain and Logistics Experiments": "Field trials of hospital inventory management, vaccine distribution, and supply network interventions for healthcare systems."
+  }
+}

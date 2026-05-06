@@ -1,0 +1,75 @@
+{
+  "Artificial Intelligence and Machine Learning": {
+    "Supervised Learning and Deep Learning": "Empirical research on training neural networks and other models on labeled datasets, including performance evaluation, generalization, robustness, and benchmarking.",
+    "Unsupervised and Self Supervised Learning": "Experimental development and evaluation of clustering, representation learning, generative models, and contrastive learning approaches.",
+    "Reinforcement Learning and Control": "Lab and simulated experiments for training agents in complex environments, robotics, game AI, and real-world decision-making tasks.",
+    "AI Safety and Robustness": "Empirical evaluation of adversarial robustness, interpretability experiments, and safety mechanisms in deployed AI systems.",
+    "Multimodal and Foundation Models": "Experiments on large-scale pretraining of multimodal models, performance evaluation, alignment studies, and few-shot/zero-shot learning testing.",
+    "Mechanistic Interpretability": "Research focused on understanding the precise internal mechanisms and computational processes within complex neural networks, like how they transform inputs into outputs."
+  },
+
+  "Computer Vision and Image Processing": {
+    "Image Classification and Object Detection": "Experimental evaluation of models on benchmark datasets, real-world imagery, and controlled laboratory settings.",
+    "Video and Action Recognition": "Empirical research on temporal visual data, multi-camera setups, and performance assessment of recognition algorithms.",
+    "Medical and Biological Imaging": "Experiments applying computer vision to biomedical images, histology, microscopy, and radiology with real-world datasets.",
+    "3D Vision and Sensor Fusion": "Experimental research using LIDAR, depth cameras, and multimodal sensors for reconstruction, localization, and scene understanding."
+  },
+
+  "Natural Language Processing and Speech": {
+    "Text and Language Modeling": "Experimental evaluation of language models on large corpora, benchmark datasets, and task-specific performance tests.",
+    "Speech and Audio Processing": "Empirical experiments on speech recognition, synthesis, and speaker verification using real-world audio datasets.",
+    "Machine Translation and Information Retrieval": "Benchmarking, dataset creation, and experimental comparison of translation and search algorithms.",
+    "Dialog Systems and Human Interaction": "Controlled experiments with human participants to evaluate conversational agents and interactive NLP systems."
+  },
+
+  "Robotics and Embodied AI": {
+    "Mobile and Autonomous Robots": "Experimental research on navigation, localization, multi-robot coordination, and real-world deployment tests.",
+    "Manipulation and grasping": "Lab experiments with robotic arms, tactile sensing, and dexterous manipulation of objects in controlled environments.",
+    "Human Robot Interaction": "Empirical studies with human subjects, evaluating usability, trust, and cooperative task performance.",
+    "Sim2Real and Transfer Learning": "Experiments validating transfer of policies from simulation to real-world robots and measuring robustness across environments."
+  },
+
+  "Human Computer Interaction": {
+    "User Interface and User Experience Studies": "Controlled laboratory and field experiments evaluating design, usability, accessibility, and user satisfaction.",
+    "Interaction Design and Prototyping": "Experimental testing of interactive systems, prototyping platforms, and novel input/output modalities.",
+    "Collaborative and Social Computing": "Empirical studies of online platforms, social interactions, crowdsourcing systems, and collaborative work environments."
+  },
+
+  "Data Science and Experimental Analytics": {
+    "Data Collection and Curation Experiments": "Empirical methods for sampling, preprocessing, and benchmarking datasets across domains.",
+    "Predictive Modeling and Evaluation": "Experimental comparison of predictive models in real-world settings, including cross-validation and deployment metrics.",
+    "Causal Inference and A/B Testing": "Design and execution of experiments to estimate causal effects, perform interventions, and validate models empirically.",
+    "Time Series and Sensor Data Analysis": "Experimental studies on temporal and streaming data, including forecasting, anomaly detection, and multivariate sensor integration."
+  },
+
+  "Computer Systems and Networks": {
+    "Distributed and Cloud Systems": "Empirical performance testing, fault-tolerance experiments, and real-world deployments of distributed systems.",
+    "High Performance and Parallel Computing": "Experiments measuring scalability, efficiency, and optimization of parallel algorithms on clusters and supercomputers.",
+    "Networking and Communication Systems": "Experimental design, deployment, and measurement of wired/wireless networks, protocols, and throughput performance.",
+    "Embedded and IoT Systems": "Lab and field testing of embedded devices, sensor networks, and Internet-of-Things deployments."
+  },
+
+  "Security and Privacy": {
+    "Experimental Cybersecurity": "Testing vulnerability exploits, intrusion detection, malware behavior, and defensive systems in controlled experiments.",
+    "Privacy Preserving Computation": "Empirical evaluation of differential privacy, federated learning, and encrypted computation techniques in real-world scenarios.",
+    "Human Factors in Security": "Experimental studies on phishing, user authentication, and social engineering defenses with human participants."
+  },
+
+  "Software Engineering and Empirical Studies": {
+    "Program Analysis and Debugging": "Experimental evaluation of static/dynamic analysis tools, automated debugging systems, and software quality metrics.",
+    "Empirical Software Engineering": "Controlled studies, field experiments, and mining software repositories to validate development practices and tools.",
+    "DevOps and Continuous Integration": "Experimental deployments and performance measurement of CI/CD pipelines, software reliability, and automated testing frameworks."
+  },
+
+  "Experimental Algorithms and Computational Science": {
+    "Benchmarking and Performance Analysis": "Experimental testing of algorithm performance on real-world and synthetic datasets, scalability studies, and robustness evaluation.",
+    "Simulation and Modeling": "Empirical verification of computational models in physics, biology, and engineering domains, with comparison to real data.",
+    "Optimization and Operations Research": "Lab and field experiments on heuristic, metaheuristic, and stochastic optimization methods applied to real-world tasks."
+  },
+
+  "Interdisciplinary and Applied Computing": {
+    "Computational Biology and Bioinformatics": "Empirical studies using genomic, proteomic, and cellular datasets; evaluation of predictive models on real-world biological data.",
+    "Experimental Fintech and EconCS": "Field and lab experiments evaluating algorithmic trading, blockchain networks, and economic simulations.",
+    "Digital Health and Human Data": "Experiments deploying wearable devices, digital monitoring systems, and AI-driven healthcare interventions with empirical validation."
+  }
+}

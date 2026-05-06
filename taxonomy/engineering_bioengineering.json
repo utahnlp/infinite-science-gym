@@ -1,0 +1,60 @@
+{
+  "Tissue Engineering and Regenerative Medicine": {
+    "Cell and Tissue Culture": "Experimental work on primary cells, stem cells, organoids, and 3D culture models to study physiology, disease, and regenerative potential.",
+    "Scaffold and Biomaterial Development": "Design, synthesis, and experimental testing of biomaterials for tissue repair, including hydrogels, decellularized matrices, and bioactive scaffolds.",
+    "Organs on Chips and InVitro Models": "Microfluidic devices and organ-on-chip systems for modeling organ-level function, drug testing, and disease simulation.",
+    "Stem Cell Engineering": "Experimental manipulation of stem cells, differentiation protocols, and in vivo transplantation studies for tissue regeneration."
+  },
+
+  "Biomechanics and Biomedical Mechanics": {
+    "Musculoskeletal and Skeletal Biomechanics": "Experimental studies of bones, joints, tendons, and ligaments using mechanical testing, imaging, and motion capture.",
+    "Cardiovascular and Hemodynamics": "Laboratory experiments and ex vivo studies on blood flow, vascular mechanics, and heart tissue function.",
+    "Cellular and Molecular Biomechanics": "Measurements of cell mechanics, mechanotransduction, cytoskeleton dynamics, and microfluidic force experiments.",
+    "Soft Tissue and Organ Mechanics": "Experimental testing of tissues and organ models under physiologically relevant mechanical loads."
+  },
+
+  "Biomedical Imaging and Sensing": {
+    "Medical Imaging Development": "Experimental development and testing of MRI, CT, ultrasound, optical, and photoacoustic imaging technologies.",
+    "Biosensors and Diagnostic Devices": "Design, fabrication, and laboratory testing of chemical, optical, and electronic sensors for biomarker detection.",
+    "InVivo and ExVivo Imaging Studies": "Experimental studies using imaging modalities in animal models or tissue specimens to assess structure and function.",
+    "Molecular and Fluorescence Imaging": "Development and experimental application of molecular probes, fluorescence microscopy, and super-resolution imaging in cells and tissues."
+  },
+
+  "Synthetic Biology and Biofabrication": {
+    "Genetic and Cell Engineering": "Experimental design, implementation, and testing of engineered genetic circuits, CRISPR-based edits, and cell reprogramming.",
+    "Microbial and Chassis Engineering": "Laboratory manipulation of microbial strains for production of biomolecules, metabolic engineering, and synthetic pathways.",
+    "Bioprinting and Biofabrication": "Experimental work on 3D bioprinting of tissues, printing of biomaterials, and functional tissue constructs.",
+    "Protein and Enzyme Engineering": "Laboratory evolution, directed design, and functional testing of proteins and enzymes for therapeutic or industrial applications."
+  },
+
+  "Medical Devices and Instrumentation": {
+    "Implants and Prosthetics": "Design, fabrication, and in vitro/in vivo testing of medical implants, prosthetics, and joint replacements.",
+    "Wearable and Interfacing Devices": "Experimental studies on wearable sensors, human-machine interfaces, and physiologic monitoring devices.",
+    "Microfluidic and Lab on Chip Devices": "Experimental fabrication, testing, and optimization of microfluidic systems for diagnostics, drug screening, and cellular assays.",
+    "Neural Interfaces and Bionics": "Experimental development and testing of neural electrodes, brain-machine interfaces, and neuroprosthetics."
+  },
+
+  "Biophotonics and Optical Bioengineering": {
+    "Optical Sensing and Spectroscopy": "Laboratory development and testing of optical methods for biological sensing, including Raman, fluorescence, and multiphoton techniques.",
+    "Laser and Optical Treatment": "Experimental studies of laser-based therapies, tissue ablation, photodynamic therapy, and optogenetics.",
+    "Imaging-Guided Interventions": "Experimental use of imaging modalities to guide minimally invasive procedures and real-time tissue monitoring."
+  },
+
+  "Biomaterials and Biointerface Engineering": {
+    "Surface Modification and Functionalization": "Experimental studies of surface chemistry, coatings, and functionalization for implants, sensors, and tissue scaffolds.",
+    "Biocompatibility and Immune Response": "Laboratory testing of biomaterial interactions with cells and immune systems in vitro and in vivo.",
+    "Smart and Responsive Materials": "Experimental development of stimuli-responsive materials for drug delivery, tissue engineering, and sensing applications."
+  },
+
+  "Drug Delivery and Pharmacological Bioengineering": {
+    "Nanoparticle and Microparticle Delivery": "Experimental design, synthesis, and testing of nanoparticles, liposomes, and polymeric carriers for targeted drug delivery.",
+    "Controlled and Sustained Release": "Laboratory experiments on release kinetics, diffusion, and degradation of drug delivery systems.",
+    "Gene and Cell Therapeutics": "Experimental delivery of genes, RNA, or engineered cells for therapeutic purposes in vitro and in animal models."
+  },
+
+  "Computational and Experimental Bioengineering Integration": {
+    "Experimental Validation of Models": "Laboratory studies to validate predictive computational models in biomechanics, tissue growth, and physiological responses.",
+    "High-Throughput and Microphysiological Experiments": "Integration of experimental platforms with computational analysis for large-scale testing and screening.",
+    "Sensor and Data-Driven Experimental Design": "Experimental studies designed using data-driven or AI-assisted optimization for bioengineering systems."
+  }
+}

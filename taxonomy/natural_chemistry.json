@@ -1,0 +1,80 @@
+{
+  "Analytical Chemistry": {
+    "Spectroscopic and Optical Methods": "Development and application of experimental spectroscopy (UV-Vis, IR, Raman, fluorescence, NMR, mass spec coupled to optical techniques) to characterize molecules, materials, and biological samples.",
+    "Separation and Chromatography": "Design and empirical evaluation of liquid, gas, ion, and supercritical fluid chromatographic techniques, electrophoresis, and sample prep for complex mixtures.",
+    "Electroanalytical Chemistry": "Experimental methods using electrodes, sensors, and voltammetry to detect and quantify analytes in real samples.",
+    "Instrumentation and Sensor Development": "Building and validating new analytical instruments, microfluidics, lab-on-chip devices, and field-deployable sensors."
+  },
+
+  "Inorganic and Coordinaton Chemistry": {
+    "Synthetic Inorganic Chemistry": "Experimental synthesis and structural characterization of main-group, transition-metal, lanthanide, and actinide compounds.",
+    "Coordination and Organometallic Chemistry": "Preparation, isolation, and study of metal-ligand complexes, catalytic cycles, and reactive intermediates using spectroscopy and crystallography.",
+    "Bioinorganic Chemistry": "Experimental study of metal ions in biological systems (metalloenzymes, metallodrugs) and model complexes.",
+    "Solid State Inorganic Chemistry": "Synthesis and physical characterization (XRD, neutron scattering) of extended inorganic solids and functional materials."
+  },
+
+  "Organic Chemistry": {
+    "Synthetic Organic Methodology": "Experimental development of new reactions, reagents, and catalysts for C-C and C-heteroatom bond formation.",
+    "Natural Products and Terpenoids": "Isolation, structure elucidation, and total synthesis of bioactive natural compounds.",
+    "Organocatalysis and Green Synthesis": "Empirical optimization of organocatalytic, photochemical, and sustainable synthetic methods.",
+    "Physical Organic Experiments": "Kinetics, isotope effects, mechanistic probes, and reaction dynamics measured experimentally."
+  },
+
+  "Physical and Chemical Physics": {
+    "Experimental Chemical Dynamics": "Laser and crossed-beam experiments probing reaction pathways, energy transfer, and state-resolved kinetics.",
+    "Spectroscopy and Molecular Structure": "High-resolution experimental spectroscopy of molecules and clusters, time-resolved pump-probe studies.",
+    "Thermochemistry and Calorimetry": "Measurement of enthalpies, heats of reaction, and phase equilibria by calorimetry and related techniques."
+  },
+
+  "Materials Chemistry": {
+    "Polymer and Macromolecular Chemistry": "Experimental synthesis and characterization of new polymers, copolymers, and supramolecular assemblies.",
+    "Nanomaterials and Nanostructures": "Fabrication, functionalization, and physical/chemical property measurements of nanoparticles, 2D materials, and quantum dots.",
+    "Hybrid and Composites": "Preparation and testing of organic-inorganic hybrids, coatings, and composites with tailored properties.",
+    "Crystallography and Structural Materials": "Single-crystal growth, diffraction, and empirical structure-property correlation studies."
+  },
+
+  "Surface and Interface Chemistry": {
+    "Catalysis and Heterogeneous Reactions": "Experimental studies of catalytic materials (supported metals, zeolites), reaction kinetics, and in-situ/operando spectroscopy.",
+    "Electrocatalysis and Photoelectrocatalysis": "Electrode and photocatalyst fabrication, mechanistic and performance testing for energy conversion.",
+    "Colloids and Self Assembly": "Laboratory exploration of micelles, emulsions, surfactant systems, and self-assembling nanostructures.",
+    "Adsorption and Surface Spectroscopy": "Measurement of adsorption isotherms, surface composition, and reactivity using XPS, STM, AFM, etc."
+  },
+
+  "Environmental and Green Chemistry": {
+    "Environmental Analytical Chemistry": "Field and lab measurement of pollutants, trace metals, microplastics, and emerging contaminants.",
+    "Atmospheric and Aquatic Chemistry": "Experimental studies of chemical transformations in air, water, and soil microenvironments.",
+    "Sustainable Process Chemistry": "Pilot-scale and lab experiments on solvent substitution, waste minimization, and renewable feedstocks.",
+    "Environmental Catalysis and Remediation": "Development and empirical evaluation of catalysts and sorbents for pollution control and cleanup."
+  },
+
+  "Biological and Medicinal Chemistry": {
+    "Chemical Biology Tools": "Experimental synthesis and testing of probes, bioorthogonal reagents, and chemical genetics platforms.",
+    "Medicinal and Pharmaceutical Chemistry": "Empirical structure-activity relationship (SAR) studies, drug synthesis, and ADMET profiling.",
+    "Enzymology and Protein Engineering": "Laboratory measurement of enzyme kinetics, mutagenesis, and directed evolution for new functions.",
+    "Bioconjugation and Drug Delivery": "Experimental preparation and testing of antibody-drug conjugates, nanoparticles, and controlled-release systems."
+  },
+
+  "Electrochemistry and Energy Storage": {
+    "Battery and Supercapacitor Chemistry": "Experimental electrode/electrolyte development, cycling tests, and failure analysis for next-gen batteries.",
+    "Fuel Cells and Electrolyzers": "Empirical evaluation of catalysts, membranes, and system performance under operating conditions.",
+    "Corrosion and Protection": "Laboratory corrosion measurements, coatings development, and inhibitor testing.",
+    "Photoelectrochemistry": "Experimental photoelectrode fabrication, water splitting, and CO2 reduction under illumination."
+  },
+
+  "Radiochemistry and Nuclear Chemistry": {
+    "Isotope Labeling and Tracer Studies": "Production and experimental application of radioisotopes in biological, medical, and environmental contexts.",
+    "Actinide and Heavy Element Chemistry": "Empirical study of actinide coordination, separation, and spectroscopy under controlled conditions.",
+    "Radiopharmaceutical Development": "Synthesis and in-vitro/in-vivo testing of new imaging and therapeutic radiochemicals."
+  },
+
+  "Industrial and Process Chemistry": {
+    "Process Intensification and Pilot Experiments": "Scaling up reactions, flow chemistry, and continuous manufacturing trials in pilot plants.",
+    "Quality Control and Method Validation": "Experimental validation of analytical methods for regulatory compliance and production.",
+    "Additive and Formulation Chemistry": "Empirical design and testing of additives, lubricants, coatings, and consumer product formulations."
+  },
+
+  "Chemical Education Research and Instrumentation": {
+    "Laboratory Pedagogy Studies": "Controlled experiments on new teaching labs, inquiry-based experiments, and assessment of learning outcomes.",
+    "Instrumentation for Teaching and Outreach": "Development and field-testing of portable or low-cost chemical analysis tools for education and citizen science."
+  }
+}

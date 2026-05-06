@@ -1,0 +1,87 @@
+name: Python Interpreter
+mcp:
+  name: Python Interpreter MCP
+  encoded_name: python_interpreter
+  version: v1
+  instructions: >
+    This server provides a sandboxed Python 3.12 interpreter for executing Python code securely.
+    It's designed for running calculations, data analysis, and API calls in an isolated environment.
+    
+    SECURITY CONSTRAINTS:
+    
+    - Code execution is limited to 60 seconds .
+    
+    - Memory usage is capped at 512 MB.
+    
+    - CPU time is limited to 45 seconds.
+    
+    - Access to dangerous modules is blocked `os`, `sys`, `subprocess`, `pathlib`, `glob`, `shutil`, `tempfile`, `open`, `input`, `__import__`, `importlib`, `imp`, `pkgutil`, `importlib_metadata`, `pkgresources`.
+    
+    - File system access is prohibited (open, read, write operations).
+    
+    - Process spawning and system commands are blocked.
+    
+    AVAILABLE PACKAGES:
+    
+    Use the `get_version_metadata` tool to retrieve the complete list of installed packages and their versions.
+    Here is a list of all available installed packages versions: `numpy==2.4.2`, `pandas==3.0.1`, `scikit-learn==1.8.0`, `scipy==1.17.1`, `matplotlib==3.10.8`, `seaborn==0.13.2`, `sympy==1.14.0`, `requests==2.32.5`.
+    Outside of these listed packages, the only other available libraries are the default python libraries (other than the blocked modules listed above in the SECURITY CONSTRAINTS section).
+    
+    USAGE:
+    
+    Use the `run_python_code` tool to execute Python code blocks. The code runs in an isolated namespace with a fresh slate each time - no variables persist between executions.
+    
+    Print statements capture output which is returned in the response.
+    Use `print()` to output results, or the code will run silently.
+    If code raises an exception, the full traceback is returned for debugging.
+    If your code causes a timeout, consider breaking your command into simpler components and executing them individually.
+  tool_descriptions:
+    get_version_metadata: >
+      Retrieve metadata about the Python environment including the Python version and list of all installed packages with their version numbers.
+      Use this to check what packages are available for your code execution.
+    run_python_code: >
+      Execute a Python code block in the sandbox environment.
+      The code runs with security constraints (timeout, memory limit, no file access, no system commands).
+      All output from print statements is captured and returned.
+      Each execution is independent - variables do not persist between calls.
+      
+      If you want to access the scientific_data_repository tools from inside your code block, the python functions below have been instantiated.
+      They can be called just like the corresponding tools, but as python functions instead.
+      Refer to the scientific_data_repository documentation for information about the function parameters.
+      Here are their signatures:
+      
+      - `def list_directory(id: int, prefix: str = '/*', depth: int = 1) -> dict:`
+      
+      - `def read_text_file(id: int, path: str, head: int | None = None, tail: int | None = None) -> dict:`
+      
+      - `def read_binary_file(id: int, path: str) -> dict:`
+api: 
+  name: Python Interpreter API
+  version: v1
+  description: Provides a sandbox environment for running Python Code
+
+sandbox:
+  python_version: 3.12.12
+  # Execution timeout in seconds
+  timeout_seconds: 60
+  # Memory limit in MB
+  memory_limit_mb: 512
+  # CPU time limit in seconds (soft limit)
+  cpu_time_limit_seconds: 45
+  # List of modules to block
+  blocked_modules:
+    - os
+    - sys
+    - subprocess
+    - pathlib
+    - glob
+    - shutil
+    - tempfile
+    - open
+    - input
+    - __import__
+    - importlib
+    - imp
+    - pkgutil
+    - importlib_metadata
+    - pkgresources

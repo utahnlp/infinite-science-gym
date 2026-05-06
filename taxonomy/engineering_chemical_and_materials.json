@@ -1,0 +1,53 @@
+{
+  "Chemical Engineering": {
+    "Process Engineering and Unit Operations": "Experimental study of reactors, separation processes, heat and mass transfer systems, process optimization, and scale-up of chemical processes.",
+    "Reaction Engineering and Catalysis": "Lab-scale kinetic experiments, catalyst synthesis and testing, reaction mechanism studies, and pilot-scale reactor demonstrations.",
+    "Fluid Mechanics and transport processes": "Experimental investigations of multiphase flows, microfluidics, rheology, and transport phenomena in chemical processes.",
+    "Biochemical and Bioprocess Engineering": "Fermentation experiments, enzyme and cell culture studies, bioreactor testing, and downstream processing experiments.",
+    "Energy and Fuel Processing": "Experimental research on biofuels, hydrogen production, carbon capture, electrochemical energy conversion, and process integration."
+  },
+
+  "Materials Engineering": {
+    "Metallurgical and Metal Materials": "Experimental development and characterization of metals and alloys, mechanical testing, corrosion studies, and metallurgical processing experiments.",
+    "Ceramics and glass materials": "Synthesis, sintering, high-temperature experiments, structural and thermal property measurements, and functional ceramic device testing.",
+    "Polymer and Polymeric Materials": "Polymer synthesis, characterization (rheology, spectroscopy), processing experiments, and testing of mechanical, thermal, and electrical properties.",
+    "Composites and Advanced structured materials": "Fabrication and experimental testing of fiber-reinforced composites, nanocomposites, layered structures, and functional material prototypes.",
+    "Nanomaterials and nanotechnology": "Synthesis of nanoparticles, nanotubes, 2D materials, experimental surface and interface characterization, and device integration studies.",
+    "Materials characterization and testing": "Use of X-ray diffraction, electron microscopy, spectroscopy, mechanical testing, and thermal analysis to experimentally determine material properties.",
+    "Materials for energy and sustainability": "Experimental research on batteries, supercapacitors, fuel cells, photovoltaics, thermoelectrics, and sustainable material synthesis."
+  },
+
+  "Chemical Biotechnology and Applied Chemistry": {
+    "Industrial and applied chemistry": "Experimental development of new chemical products, scale-up of reactions, formulation studies, and safety testing.",
+    "Chemical sensor and analytical device development": "Experimental design, fabrication, and validation of chemical sensors, biosensors, and lab-on-a-chip analytical platforms.",
+    "Environmental and process chemistry": "Experimental research on water treatment, air pollution control, waste processing, and sustainable chemical technologies.",
+    "Polymer chemistry and functional materials": "Experimental synthesis of functional polymers, responsive materials, and stimuli-sensitive coatings for applied engineering use."
+  },
+
+  "Surface Science and interface engineering": {
+    "Coatings and surface treatments": "Experimental development and testing of coatings, thin films, anti-corrosion layers, and surface modification techniques.",
+    "Tribology and friction experiments": "Lab-scale experiments on friction, wear, lubrication, and surface interactions for engineering applications.",
+    "Interface and nanostructure experiments": "Experimental study of self-assembled monolayers, thin-film interfaces, and nanoscale interfacial phenomena."
+  },
+
+  "Materials Processing and Manufacturing": {
+    "Additive manufacturing and 3D printing": "Experimental development of 3D printing processes, materials testing, process optimization, and prototype fabrication.",
+    "Powder metallurgy and sintering": "Lab-scale synthesis, processing, and property testing of powders and sintered materials.",
+    "Thin film and coating deposition": "Experimental techniques such as PVD, CVD, ALD, and testing of resulting material properties.",
+    "Microfabrication and nanofabrication": "Experimental lithography, etching, and nanostructure fabrication with characterization of structural and functional properties."
+  },
+
+  "Electrochemical and energy materials": {
+    "Battery and supercapacitor materials": "Electrode synthesis, electrochemical testing, cycling experiments, and prototype assembly.",
+    "Fuel cells and hydrogen technology": "Experimental development of catalysts, membrane electrode assemblies, and performance testing under operational conditions.",
+    "Photoelectrochemical and solar materials": "Lab-scale experiments on photovoltaic materials, light-harvesting structures, and solar fuel generation devices.",
+    "Thermoelectrics and energy conversion materials": "Experimental fabrication and measurement of materials for thermal-to-electric energy conversion."
+  },
+
+  "Characterization and metrology": {
+    "Structural and microstructural analysis": "X-ray, neutron, and electron diffraction experiments, microscopy, tomography, and nanoscale imaging of materials.",
+    "Chemical and elemental analysis": "Spectroscopy, mass spectrometry, chromatography, and surface analytical techniques to determine composition and chemical state.",
+    "Mechanical and thermal testing": "Experimental determination of strength, hardness, elasticity, creep, fatigue, and thermal properties under controlled conditions.",
+    "In-situ and operando experiments": "Real-time monitoring of materials during reactions, mechanical stress, or environmental exposure using advanced experimental setups."
+  }
+}

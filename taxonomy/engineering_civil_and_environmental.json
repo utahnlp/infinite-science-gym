@@ -1,0 +1,53 @@
+{
+  "Structural Engineering": {
+    "Experimental Structural Mechanics": "Laboratory and field tests on beams, columns, frames, and complex structures to measure strength, stiffness, and failure modes.",
+    "Seismic and Dynamic Engineering": "Shake-table experiments, structural vibration testing, and full-scale monitoring to study earthquake and dynamic load responses.",
+    "Material testing and characterization": "Experimental evaluation of concrete, steel, composites, and novel construction materials under various environmental and load conditions."
+  },
+
+  "Geotechnical Engineering": {
+    "Soil Mechanics and Lab testing": "Triaxial, oedometer, and shear tests to study soil strength, compressibility, and deformation under controlled conditions.",
+    "Foundation and Earthwork Experiments": "Physical modeling of foundations, retaining walls, slopes, and embankments, including centrifuge testing and field load tests.",
+    "Geotechnical Instrumentation and monitoring": "In-situ measurement of pore pressure, settlement, and soil-structure interaction using sensors and field experiments."
+  },
+
+  "Transportation Engineering": {
+    "Pavement and Road material testing": "Experimental testing of asphalt, concrete, and other materials for durability, rutting, and fatigue performance under laboratory and field conditions.",
+    "Traffic flow and road experiments": "Empirical studies using instrumented vehicles, traffic sensors, and controlled field experiments to study traffic dynamics and safety.",
+    "Bridge and transportation structure monitoring": "Field experiments and sensor-based monitoring to evaluate structural health and load effects on transportation infrastructure."
+  },
+
+  "Environmental Engineering": {
+    "Water and Wastewater Treatment": "Pilot-scale and laboratory experiments on chemical, biological, and physical processes for water purification and wastewater treatment.",
+    "Air Quality and Air Pollution Control": "Experimental studies of emission capture, filtration, and dispersion using wind tunnels, test facilities, and environmental monitoring campaigns.",
+    "Solid Waste and Sustainability": "Experimental research on landfill leachate treatment, waste-to-energy conversion, recycling processes, and material lifecycle testing."
+  },
+
+  "Hydraulic and Water Resources Engineering": {
+    "Hydrodynamics and Lab flume experiments": "Physical modeling of river flows, open channels, and coastal hydraulics using flumes and wave tanks.",
+    "Flood and Stormwater Experimental studies": "Scaled hydraulic models, rainfall simulators, and field sensor networks to study flood mitigation and drainage performance.",
+    "Groundwater and hydrogeology testing": "Tracer experiments, aquifer pumping tests, and soil permeability measurements to understand subsurface water movement."
+  },
+
+  "Construction Engineering and Management": {
+    "Construction materials testing": "Experimental evaluation of innovative materials, admixtures, and construction techniques in lab and field trials.",
+    "Construction process monitoring": "Empirical studies on construction productivity, equipment performance, and site safety interventions through field experiments.",
+    "Structural health monitoring and smart infrastructure": "Field experiments with sensors and IoT devices to track the performance and degradation of built structures over time."
+  },
+
+  "Coastal and Ocean Engineering": {
+    "Coastal structure and breakwater testing": "Laboratory wave tank experiments and field tests to study coastal protection structures under waves, tides, and storms.",
+    "Sediment transport and erosion": "Experimental flume and field studies on sediment movement, beach erosion, and shoreline stabilization.",
+    "Marine infrastructure monitoring": "Empirical testing of offshore platforms, piers, and marine renewable energy devices in controlled and natural environments."
+  },
+
+  "Environmental Sensing and Remediation": {
+    "Contaminant transport and remediation experiments": "Laboratory and field experiments tracking pollutants in soil, water, and air, including in-situ remediation techniques.",
+    "Environmental monitoring technology": "Testing of sensors, autonomous monitoring platforms, and measurement protocols for air, water, and soil quality."
+  },
+
+  "Urban and Built Environment Experimental Studies": {
+    "Smart city and infrastructure monitoring": "Field experiments using sensor networks and real-time data to study energy, water, and traffic in urban environments.",
+    "Microclimate and building environment testing": "Experimental studies of heat, ventilation, daylighting, and indoor air quality using laboratory setups and field trials."
+  }
+}

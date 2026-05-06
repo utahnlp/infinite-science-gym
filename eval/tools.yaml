@@ -1,0 +1,6 @@
+scientific_data_repo:
+  description: A repository containing scientific data.
+  url: <MCP-ENDPOINT>
+python_interpreter:
+  description: A stateless Python code interpreter
+  url: <MCP-ENDPOINT>

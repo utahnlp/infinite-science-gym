@@ -1,0 +1,111 @@
+{
+  "Circuits and Electronic Systems": {
+    "Analog Integrated Circuits": "Design, fabrication, and experimental characterization of analog ICs (amplifiers, ADCs/DACs, low-noise frontends) including silicon-proven measurements and noise/linearity testing.",
+    "Digital VLSI and System-on-Chip": "Fabrication and silicon/FPGA prototyping, timing/power/thermal measurement, hardware validation, post-silicon debug and benchmarking of chips and SoCs.",
+    "Mixed Signal and RF ICs": "Development and lab characterization of mixed-signal and RF integrated circuits (transceivers, PLLs, mmWave frontends) including S-parameter, phase-noise and linearity tests.",
+    "Power Electronics and Power Conversion": "Experimental power converter design, control, EMI/thermal testing, high-efficiency inverter prototypes and hardware-in-the-loop validations."
+  },
+
+  "Semiconductor Devices and Nanotechnology": {
+    "Device Physics and transistor RnD": "Fabrication and electrical characterization of transistors and new device concepts (FinFET, gate-all-around, TFETs) with IV/CV, mobility and reliability tests.",
+    "2D Materials and nanoscale devices": "Synthesis, device fabrication (FETs, sensors), and transport/optical experiments on graphene, TMDs and other atomically thin materials.",
+    "MEMS NEMS and microfabrication": "Design, microfabrication and experimental testing of MEMS/NEMS sensors, actuators, resonators and packaging for real-world performance metrics.",
+    "Nanofabrication and characterization": "Cleanroom process experiments, electron/ion-beam processing, and nanoscale imaging/analysis to validate novel device structures and material properties."
+  },
+
+  "Photonics and Optoelectronics": {
+    "Integrated Photonics": "Fabrication and on-chip measurement of photonic circuits, modulators, switches, and their coupling to fiber — throughput, loss, and nonlinear tests.",
+    "Optoelectronic Devices and lasers": "Experimental development and testing of LEDs, semiconductor lasers, VCSELs and photodetectors including lifetime, power and spectral measurements.",
+    "Nonlinear and ultrafast photonics": "Laboratory pump-probe, supercontinuum, frequency comb and ultrafast spectroscopy experiments, and high-speed optical link testing.",
+    "Imaging and sensing optics": "Imaging system lab characterization, hyperspectral and lidar sensor calibration, and field trials for remote sensing and machine vision."
+  },
+
+  "Electromagnetics Radio Frequency and microwave": {
+    "Antennas and Radiation systems": "Design, anechoic-chamber and field measurements of antennas, arrays, and beamforming systems including pattern, gain and polarization testing.",
+    "Microwave and mmWave systems": "Prototype and measurement of microwave/mmWave transceivers, radar prototypes, mmWave communications testbeds and channel sounding experiments.",
+    "Terahertz and submm wave experiments": "Source/detector development, spectroscopy and imaging experiments in the terahertz band for sensing and communication use-cases.",
+    "Computational EM experiments and validation": "Bench validation of full-wave EM models via S-parameter, near-field scanning and scattering experiments."
+  },
+
+  "Communications and Signal Processing": {
+    "Wireless communications and networks": "Testbed deployments, OTA experiments, protocol trials, MIMO/beamforming field tests and measurements for 5G/6G and beyond.",
+    "Information and coding systems experiments": "Hardware/FPGA or lab demonstrations of coding/modulation schemes, link-level experiments and BER/latency benchmarking.",
+    "Digital signal processing and audio image": "Experimental algorithm validation on hardware/software pipelines for audio, image, radar and biomedical signals with real-world datasets and instrumented tests.",
+    "Remote sensing and radar systems": "Laboratory and field radar experiments, SAR/LIDAR measurements, and sensor fusion trial deployments."
+  },
+
+  "Control Systems and Robotics": {
+    "Control theory applied and experiments": "Hardware-in-the-loop and bench experiments validating control algorithms on motors, power electronics, and distributed actuators.",
+    "Robotics and autonomous systems": "Robot design and field/indoor experiments (navigation, manipulation, multi-robot coordination) with sensor fusion and real-world performance evaluation.",
+    "Mechatronics and actuation": "Prototype actuators, haptics, tactile sensor integration and closed-loop experimental evaluation of performance and reliability.",
+    "Cyber-physical systems and field trials": "Integrated CPS experiments (smart infrastructure, connected vehicles) including safety, timing, and resilience tests in real environments."
+  },
+
+  "Computer Systems and Computer Engineering": {
+    "Computer architecture and hardware systems": "Prototype CPU/GPU/accelerator implementations (FPGA/ASIC), microbenchmarks, power/perf measurement and silicon validation experiments.",
+    "Embedded and edge computing": "Embedded platform development with experimental evaluations of latency, power, reliability, and provisioning under realistic workloads.",
+    "Distributed systems and cloud edge integration": "Large-scale testbeds and controlled experiments to evaluate distributed algorithms, fault tolerance, and performance at scale.",
+    "Reconfigurable and domain-specific accelerators": "Design, FPGA/ASIC fabrication and benchmarking of domain-specific hardware (ML accelerators, crypto engines) with empirical throughput/accuracy tradeoffs."
+  },
+
+  "Machine Learning and Data Science for ECE": {
+    "Applied ML experiments and benchmarks": "Empirical evaluations of ML models on hardware (accelerators), sensor-in-the-loop datasets, reproducible benchmark studies and deployment trials.",
+    "Signal-centric ML and adaptive systems": "Experimental work combining ML with DSP for communications, control, and sensing — online learning, adaptive filters, and real-world validation.",
+    "Hardware aware learning and quantization experiments": "Lab studies of model compression, quantization effects on hardware, and measurement-driven co-design of networks and chips."
+  },
+
+  "Networking and communications infrastructure": {
+    "Wired and optical networks experiments": "Testbed experiments and field trials for optical communication systems, metro/core networks and network performance measurements.",
+    "Wireless networks and IoT testbeds": "Large-scale wireless IoT deployments, interference measurements, energy-harvesting node trials and scalability experiments.",
+    "Network security and experimental validation": "Emulation and lab experiments validating intrusion detection, secure protocol implementations, and resilience under attack."
+  },
+
+  "Cybersecurity and Privacy engineering": {
+    "Hardware security and side channel experiments": "Physical attack/fault-injection experiments, side-channel leakage measurements, and countermeasure validation on real devices.",
+    "Systems security and field tests": "Empirical vulnerability assessments, penetration-testing, and deployment trials for secure software-hardware stacks.",
+    "Privacy preserving systems and measurements": "Experimental evaluations of differential privacy, federated learning deployments, and privacy-utility tradeoffs on real datasets/hardware."
+  },
+
+  "Biomedical and Neural Engineering": {
+    "Medical devices and instrumentation": "Design, bench and preclinical testing, and experimental validation of sensors, implants, imaging hardware and therapeutic devices.",
+    "Neural interfaces and brain-computer interfaces": "Implantable/non-invasive electrode arrays, signal acquisition experiments, and closed-loop trials for decoding/neuromodulation.",
+    "Bioelectromagnetics and biosensing": "Experimental biosensor development (electrochemical, optical, MEMS) and validation with biological samples and clinical pilot studies.",
+    "Medical imaging systems": "Hardware development and experimental evaluation of MRI coils, ultrasound transducers, CT detectors and image reconstruction validation."
+  },
+
+  "Power and Energy Systems": {
+    "Power systems and grid experiments": "Hardware-in-the-loop and field microgrid experiments, stability testing, demand-response pilot deployments and protection-system trials.",
+    "Renewable integration and energy storage tests": "Lab and field experiments for PV, wind integration, battery testing, fast-charging trials and lifecycle/thermal characterization.",
+    "Power electronics and conversion prototypes": "Converter prototypes, efficiency/EMI/thermal bench tests, fault injections and reliability testing under realistic loads."
+  },
+
+  "Sensing measurement and instrumentation": {
+    "Sensor systems and sensor fusion": "Design and experimental validation of multi-sensor platforms, calibration routines, and real-world data-collection campaigns.",
+    "Metrology and test equipment development": "Development and empirical validation of measurement equipment, calibration standards and uncertainty quantification experiments.",
+    "Environmental and remote monitoring instrumentation": "Field-deployable sensor networks and validation studies for air/water quality, structural health monitoring and geophysical sensing."
+  },
+
+  "Quantum engineering and experimental quantum systems": {
+    "Superconducting and solidstate qubits": "Fabrication, cryogenic measurement, coherence/lifetime experiments and gate characterization for solid-state quantum processors.",
+    "Trapped ions and atomic quantum devices": "Ion/atom trap experiments, laser cooling, gate demonstrations and multi-qubit entanglement experiments for computation/sensing.",
+    "Quantum sensing and quantum metrology": "Lab and field demonstrations of quantum-enhanced sensors (magnetometry, clocks, gravimetry) and comparative performance experiments."
+  },
+
+  "Human-Centered and experimental HCI": {
+    "User interface hardware and haptics": "Prototype hardware experiments, human-subject trials for haptics/gestural interfaces, and objective measurement of human-device interaction.",
+    "Wearables and body-area systems": "Design and experimental validation of wearables (sensors, power, connectivity) with user studies and physiological validation.",
+    "Accessibility and experimental usability testing": "Controlled experiments measuring performance, accessibility, and acceptability of assistive hardware and interactive systems."
+  },
+
+  "Environmental and Sustainability engineering": {
+    "Sensors for environmental monitoring": "Field experiments deploying novel sensor systems for climate, pollution, and ecosystem monitoring with ground-truth campaigns.",
+    "Energy efficiency and building system experiments": "Prototype HVAC/controls, sensor-based demand control experiments, and empirical studies of energy-saving interventions.",
+    "Remediation and sensor-driven field trials": "Experimental deployment of sensor-actuator systems for remediation (e.g., pollutant removal) and validation of physical interventions."
+  },
+
+  "Instrumentation and testbed infrastructure": {
+    "Experimental testbeds and facilities": "Design, commissioning and empirical characterization of testbeds (wireless, robotics, power, quantum) used for reproducible experiments.",
+    "Measurement instrumentation and sensor networks": "Development and lab/field validation of instrumentation stacks, time-synchronization, and distributed measurement protocols.",
+    "Standards compliance and interoperability testing": "Experimental interoperability checks, compliance testing and multi-vendor system integration trials."
+  }
+}

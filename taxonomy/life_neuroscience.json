@@ -1,0 +1,100 @@
+{
+  "Molecular and Cellular Neuroscience": {
+    "Synaptic physiology and plasticity": "Experimental studies of synaptic transmission, short- and long-term plasticity, synaptic proteins, and mechanisms underlying learning at the cellular/synapse level (electrophysiology, optogenetics, super-resolution imaging).",
+    "Ion channels and membrane biology": "Patch-clamp and imaging experiments characterizing channel functions, gating, trafficking, and roles in excitability and disease.",
+    "Neurotransmitter synthesis and metabolism": "Biochemical and imaging experiments measuring neurotransmitter production, release, reuptake, and enzymatic pathways.",
+    "Cell type characterization and single cell omics": "Single-cell/single-nucleus RNA-seq, ATAC-seq, spatial transcriptomics, and follow-up validation using in situ hybridization and targeted physiology."
+  },
+
+  "Developmental Neuroscience": {
+    "Neurogenesis and migration": "In vivo and in vitro experiments on neuronal progenitors, lineage tracing, and mechanisms of neuronal migration and differentiation.",
+    "Circuit formation and synaptogenesis": "Experimental mapping of how connections form during development using imaging, electrophysiology, and genetic perturbations.",
+    "Stem cells and reprogramming models": "Experimental derivation and use of iPSC/embryonic stem cell models, organoids and transplantation assays to study development and disease."
+  },
+
+  "Systems and Circuit Neuroscience": {
+    "Sensory systems": "Behavioral, electrophysiological, imaging, and perturbation experiments probing visual, auditory, somatosensory, olfactory and taste circuits.",
+    "Motor control and action": "In vivo recordings, stimulation, kinematic tracking, and closed-loop perturbation to study motor planning, control, and learning.",
+    "Homeostatic and autonomic circuits": "Experiments on circuits regulating sleep, appetite, thermoregulation, and autonomic outputs using physiology and neuromodulation.",
+    "Rhythms representations and oscillations": "Field-potential and unit recordings, optogenetic manipulation and modeling-informed validation of network rhythms and their functions."
+  },
+
+  "Cognitive and Behavioral Neuroscience": {
+    "Decision making and reward": "Behavioral paradigms with concurrent neural recording/manipulation (animals and human) probing valuation, reinforcement learning, and choice.",
+    "Memory and learning": "Experimental assays of encoding, consolidation, retrieval across scales (molecular to systems), often combining behavior, imaging and perturbation.",
+    "Attention and perception": "Psychophysics, human neuroimaging, and animal electrophysiology experiments investigating attentional selection and perceptual processes.",
+    "Social and affective neuroscience": "Empirical studies of social cognition, emotion, empathy and related neural circuits in humans and animal models."
+  },
+
+  "Neurophysiology and Electrophysiology": {
+    "In vivo extracellular recordings": "Multi-unit, single-unit, and array recordings in awake/behaving animals (Neuropixels, silicon probes) and acute preparations.",
+    "Intracellular and patch clamp techniques": "In vitro and in vivo patch recordings for synaptic/cellular physiology and intrinsic property measurements.",
+    "EEG ECoG and MEG experiments": "Noninvasive/partially invasive electrical and magnetic recording in humans and animal models, used with stimulation and behavioral tasks."
+  },
+
+  "Neuroimaging and Brain Mapping": {
+    "MRI and fMRI": "Human and animal structural and functional MRI studies, including task-based and resting-state fMRI and neurite microstructure imaging.",
+    "PET and molecular imaging": "In vivo imaging of receptor binding, metabolism, and molecular pathology using PET tracers and related modalities.",
+    "Two photon and in vivo optical imaging": "High-resolution calcium/voltage imaging and chronic window experiments in small animals to track activity across populations over time."
+  },
+
+  "Connectomics and circuit mapping": {
+    "Light level circuit tracing": "Viral tracing, transsynaptic labels, and genetic reporters combined with mesoscale imaging to map connectivity.",
+    "Electron microscopy connectomics": "Serial-EM and reconstruction pipelines mapping synaptic-level connectivity; experimental validation of wiring diagrams.",
+    "Diffusion MRI and tractography validation": "Comparative experiments linking tractography to ground-truth anatomy using ex vivo and animal correlates."
+  },
+
+  "Neurogenetics and Genomics": {
+    "Genetic models and CRISPR experiments": "Creation and phenotyping of genetic animal models and CRISPR-based perturbations to test gene function in circuits and behavior.",
+    "GWAS functional follow up": "Experimental validation (e.g., gene perturbation, cellular phenotyping) of human genetic associations in model systems.",
+    "Epigenetics and activity dependent regulation": "Experiments linking neural activity to chromatin/transcriptional changes using in vivo and in vitro assays."
+  },
+
+  "Neuroimmunology and neuroinflammation": {
+    "Microglia and glia functional experiments": "In vivo imaging and manipulation of microglia, astrocytes and other glia to study roles in development, plasticity and disease.",
+    "Peripheral immune brain interactions": "Experimental studies of how systemic inflammation and immune signaling affect neural function and behavior."
+  },
+
+  "Neurodegeneration and aging": {
+    "Mechanisms of neurodegenerative diseases": "Animal and cellular models, biomarker studies, and in vivo imaging experiments probing pathology and progression (Alzheimer's, Parkinson's, ALS, etc.).",
+    "Aging and brain function": "Longitudinal and cross-sectional experimental studies of aging brain physiology, cognition, and resilience mechanisms."
+  },
+
+  "Clinical and Translational Neuroscience": {
+    "Neurology and neurotherapeutics research": "Clinical trials, translational animal studies, biomarker development, and physiological monitoring related to neurological disorders.",
+    "Neuropsychiatric translational research": "Experimental interventions (pharmacologic, neuromodulation), biomarker validation, and clinical neurophysiology for psychiatric conditions.",
+    "Neurorehabilitation and behavioral interventions": "Empirical trials of rehabilitation protocols, brain stimulation-assisted recovery, and outcome measurement studies."
+  },
+
+  "Neuropharmacology and neurochemistry": {
+    "Drug action and target validation": "Preclinical experiments testing candidate compounds, receptor pharmacodynamics, and synaptic/network effects.",
+    "High throughput phenotypic screens": "Cellular and organismal experimental screens for neuroactive compounds with follow-up mechanism-of-action studies."
+  },
+
+  "Neurotechnology and Neural Engineering": {
+    "Brain computer interfaces and implants": "Experimental development and human/animal testing of invasive and noninvasive BCIs, signal decoding and closed-loop systems.",
+    "Neuromodulation and brain stimulation": "TMS, DBS, focused ultrasound, transcranial electrical stimulation experiments in humans and animals, including closed-loop designs.",
+    "Neural recording and sensor development": "Experimental engineering and validation of electrodes, optical probes, and wireless/miniature devices."
+  },
+
+  "Comparative and Evolutionary Neuroscience": {
+    "Nonmodel and wild species experiments": "Field and lab experimental studies of neural systems in diverse species to probe conserved principles and ethologically relevant behaviors.",
+    "Evolution of neural circuits": "Comparative experiments linking anatomy, physiology and behavior across species to infer evolutionary adaptations."
+  },
+
+  "Sleep circadian and homeostatic neuroscience": {
+    "Sleep recording and manipulation": "In vivo polysomnography, optogenetic/chemogenetic sleep manipulation, and studies of sleep-dependent memory processes.",
+    "Circadian rhythms experiments": "Molecular and physiological experiments on cellular clocks, entrainment, and systemic effects across organisms."
+  },
+
+  "Behavioral neuroscience and ethology": {
+    "Naturalistic behavioral paradigms": "Experimental designs measuring complex, natural behaviors with ethological relevance, often combined with neural recordings and manipulation.",
+    "Learning paradigms and task development": "Empirical development and use of standardized behavioral assays to probe learning, motivation, and cognition."
+  },
+
+  "Methods tools and reproducibility": {
+    "Optogenetics and chemogenetics validation": "Experimental application and rigorous benchmarking of optical and chemical tools for causal circuit interrogation.",
+    "Recording and analysis pipeline experiments": "Methodological experiments validating preprocessing, spike-sorting, imaging analysis, and open-data pipelines across labs.",
+    "Standards reproducibility and open resource development": "Empirical replication studies, multi-site validations, and creation/testing of shared datasets and protocols."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Social Structures and Inequality": {
+    "Economic Inequality": "Empirical studies on wealth, income, and resource distribution using surveys, panel data, experiments, and field interventions.",
+    "Race and Ethnicity": "Experimental and observational research on social stratification, discrimination, and identity; often involves survey experiments, lab-in-the-field studies, and longitudinal datasets.",
+    "Gender and Sexuality": "Studies using experiments, surveys, and observational methods to investigate gender norms, roles, and disparities."
+  },
+  "Social Behavior and Interactions": {
+    "Social Networks": "Empirical analysis of relationships and interactions using network surveys, behavioral experiments, and digital trace data.",
+    "Group Behavior and Cooperation": "Lab and field experiments on trust, cooperation, collective action, and coordination.",
+    "Deviance and Crime": "Empirical work on criminal behavior, policing, and social control using field experiments, natural experiments, and longitudinal datasets."
+  },
+  "Organizations and Institutions": {
+    "Education Systems": "Experimental and quasi-experimental studies on schooling outcomes, educational interventions, and policy impacts.",
+    "Work and Labor Organizations": "Empirical research on organizational behavior, labor markets, and productivity using field experiments and observational data.",
+    "Political and Legal Institutions": "Field and survey experiments examining governance, voting behavior, policy compliance, and institutional effectiveness."
+  },
+  "Culture and Communication": {
+    "Media and Information": "Empirical studies on communication, media consumption, misinformation, and social influence using experiments and surveys.",
+    "Norms and Cultural Values": "Experimental and observational studies on cultural attitudes, moral norms, and behavioral change."
+  },
+  "Cultural Anthropology": {
+    "Ethnographic Field Studies": "Systematic observation, interviews, and participatory research to document contemporary cultural practices.",
+    "Experimental Cultural Psychology": "Field and lab experiments investigating cognition, social behavior, and cultural variation in behavior and norms."
+  },
+  "Biological and Evolutionary Anthropology": {
+    "Human Evolution and Paleobiology": "Empirical research on fossils, comparative anatomy, and experimental studies simulating evolutionary processes.",
+    "Human Biological Variation": "Population studies measuring genetics, physiology, health, and adaptation; often includes field experiments or controlled laboratory measurements."
+  },
+  "Archaeology": {
+    "Field Excavation and Survey": "Systematic excavation, site survey, and artifact analysis with experimental validation of dating and provenance.",
+    "Experimental Archaeology": "Reconstruction and testing of past technologies and practices to understand artifact function, material properties, and social behavior."
+  },
+  "Linguistic Anthropology": {
+    "Language and Cognition": "Empirical studies on language acquisition, multilingualism, and cognitive effects of linguistic structures, using field and lab experiments.",
+    "Sociolinguistics and Dialects": "Quantitative and experimental studies of language variation, social signaling, and communication patterns."
+  },
+  "Applied Anthropology": {
+    "Public Health and Medical Anthropology": "Field experiments and observational studies on health interventions, disease transmission, and culturally informed health behaviors.",
+    "Environmental and Ecological Anthropology": "Empirical studies on human-environment interactions, resource use, and conservation practices using field measurements and participatory research."
+  }
+}

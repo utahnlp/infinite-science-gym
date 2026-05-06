@@ -1,0 +1,43 @@
+{
+  "Microeconomics": {
+    "Behavioral and Experimental Economics": "Controlled laboratory experiments and field experiments testing decision-making, fairness, risk preferences, cooperation, and social norms.",
+    "Industrial Organization Empirics": "Empirical studies of market structure, competition, pricing strategies, and firm behavior using observational, experimental, and quasi-experimental methods.",
+    "Labor Economics Empirical": "Field and survey-based studies on labor supply, wage determination, hiring discrimination, and the effects of policies on employment outcomes.",
+    "Consumer Behavior and Demand Analysis": "Experimental and observational research on consumer choice, preference elicitation, and behavioral biases in purchasing decisions."
+  },
+
+  "Macroeconomics and Public Economics": {
+    "Empirical Macroeconomics": "Econometric and experimental studies on business cycles, monetary/fiscal policy effects, inflation, unemployment, and macro-level interventions.",
+    "Development Economics": "Field experiments, randomized controlled trials, and quasi-experimental designs studying poverty alleviation, microfinance, education, and health in developing countries.",
+    "Public Economics": "Empirical evaluation of taxation, social welfare programs, public goods provision, and policy experiments."
+  },
+
+  "Financial Economics": {
+    "Behavioral Finance": "Laboratory and field experiments studying biases in investment decisions, market anomalies, and financial decision-making under risk and uncertainty.",
+    "Empirical Market Analysis": "Data-driven analysis of asset pricing, market microstructure, trading behavior, and portfolio strategies using historical or high-frequency data."
+  },
+
+  "Health and Education Economics": {
+    "Health Economics": "Randomized controlled trials and quasi-experimental studies of healthcare interventions, insurance design, and health behavior responses.",
+    "Education Economics": "Empirical studies and experiments on school interventions, teaching methods, policy impacts, and educational outcomes."
+  },
+
+  "Environmental and Resource Economics": {
+    "Field and Lab Experiments on Environment": "Experimental and observational research on resource use, climate policy interventions, carbon pricing, and sustainable behavior incentives."
+  },
+
+  "Experimental Methods and Econometrics": {
+    "Experimental Design and Methodology": "Development and application of lab, field, and online experimental designs for causal inference in economics.",
+    "Applied Econometrics": "Empirical research applying statistical and econometric methods to real-world data, including natural experiments, panel data, and instrumental variables approaches."
+  },
+
+  "Neuroeconomics and Cognitive Economics": {
+    "Neuroeconomic Experiments": "Experimental studies combining behavioral economics and neuroscience (e.g., fMRI, EEG) to understand decision-making, valuation, and risk perception.",
+    "Cognitive and Psychophysiological Experiments": "Research on attention, memory, and cognitive processes affecting economic behavior using lab-based experimental paradigms."
+  },
+
+  "Field and Natural Experiments": {
+    "Policy and Program Evaluation": "Empirical analysis using natural experiments, randomized field trials, and quasi-experimental methods to measure policy impacts.",
+    "Market and Organizational Field Experiments": "Controlled interventions in real-world market or organizational settings to test economic theories and behavior."
+  }
+}
