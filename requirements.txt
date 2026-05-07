@@ -1,11 +1,3 @@
-# Server
-astor
-fastapi
-fastmcp
-pydantic
-pyyaml
-uvicorn
-
 # Simulator
 numpy
 pandas
@@ -14,6 +6,16 @@ torch
 transformers
 XlsxWriter
 
+# MCP Server
+astor
+fastapi
+fastmcp
+pydantic
+pyyaml
+requests
+uvicorn
+
 # Evaluation
 anthropic
 openai
+smolagents
