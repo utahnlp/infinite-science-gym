@@ -1,17 +1,17 @@
 # Server
 astor
 fastapi
-pydantic
-uvicorn
 fastmcp
+pydantic
 pyyaml
+uvicorn
 
 # Simulator
 numpy
 pandas
 scipy>=1.17.0
-transformers
 torch
+transformers
 XlsxWriter
 
 # Evaluation
