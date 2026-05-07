@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 
 def list_directory(id: int, prefix: str = '/*', depth: int = 1) -> dict:
     import requests
-    api_url = "<MCP-ENDPOINT>"
+    api_url = "https://localhost:8000/mcp/mcp"
     url = f'{api_url}/api/directory/{id}'
     params = {'prefix': prefix, 'depth': depth}
     response = requests.get(url=url, params=params)
@@ -27,14 +27,14 @@ def list_directory(id: int, prefix: str = '/*', depth: int = 1) -> dict:
 
 def read_text_file(id: int, path: str, head: int | None = None, tail: int | None = None) -> dict:
     import requests
-    api_url = "<MCP-ENDPOINT>"
+    api_url = "https://localhost:8000/mcp/mcp"
     url = f'{api_url}/api/text_file/{id}'
     params = {'path': path, 'head': head, 'tail': tail}
     return requests.get(url=url, params=params).json()
 
 def read_binary_file(id: int, path: str) -> dict:
     import requests
-    api_url = "<MCP-ENDPOINT>"
+    api_url = "https://localhost:8000/mcp/mcp"
     url = f'{api_url}/api/binary_file/{id}'
     params = {'path': path}
     return requests.get(url=url, params=params).json()

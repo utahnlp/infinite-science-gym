@@ -1,6 +1,6 @@
 scientific_data_repo:
   description: A repository containing scientific data.
-  url: <MCP-ENDPOINT>
+  url: https://localhost:8000/mcp/mcp
 python_interpreter:
   description: A stateless Python code interpreter
-  url: <MCP-ENDPOINT>
+  url: https://localhost:8001/mcp/mcp

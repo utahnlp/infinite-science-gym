@@ -3,9 +3,7 @@ Main evaluation orchestration module.
 Handles loading provider-specific evaluation modules and executing evaluations.
 """
 
-import json
 import logging
-import os
 from datetime import datetime
 from typing import Any, Dict
 
@@ -14,7 +12,6 @@ import yaml
 from .prompts import get_tool_instructions
 from .providers import (
     AnthropicProvider, 
-    GoogleProvider, 
     LocalProvider, 
     OpenaiProvider, 
     BaseProvider,
@@ -27,7 +24,6 @@ logger = logging.getLogger(__name__)
 # Mapping of provider names to module names
 PROVIDER_CLASSES = {
     'anthropic': AnthropicProvider,
-    'google': GoogleProvider,
     'local': LocalProvider,
     'openai': OpenaiProvider,
 }
@@ -93,8 +89,8 @@ def load_tool_cfg(path: str = 'eval/tools.yaml') -> Dict[str, Any]:
     return tool_cfg
 
 def load_tool_instructions(
-        api_path: str = 'api/cfg/default.yaml', 
-        interpreter_path: str = 'python_interpreter/cfg/default.yaml') -> str:
+        api_path: str = 'eval/mcp_servers/scientific_data_repository/cfg/default.yaml', 
+        interpreter_path: str = 'eval/mcp_servers/python_interpreter/cfg/default.yaml') -> str:
     
     with open(api_path) as f:
         simulator_cfg = yaml.safe_load(f)['mcp']
