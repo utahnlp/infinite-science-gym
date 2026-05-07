@@ -9,7 +9,7 @@ if str(project_root) not in sys.path:
 from simulator import CacheOnlySimulator
 from simulator.config import FileConfig
 from simulator.status import SuccessStatus
-from data.utils import load_config
+from eval.mcp_servers.scientific_data_repository.utils import load_config
 
 
 ################# Init Simulator #################

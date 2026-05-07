@@ -8,15 +8,15 @@ project_root = pathlib.Path(__file__).resolve().parent.parent
 if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
 
-from data.simulator import simulator, SuccessStatus
-from data.mime import EXTENSION_TO_MIME_TYPE
-from data.mcp import mcp
-from data.model import (
+from eval.mcp_servers.scientific_data_repository.simulator import simulator, SuccessStatus
+from eval.mcp_servers.scientific_data_repository.mime import EXTENSION_TO_MIME_TYPE
+from eval.mcp_servers.scientific_data_repository.mcp import mcp
+from eval.mcp_servers.scientific_data_repository.model import (
     StatusResponse,
     ListDirectoryResponse,
     ReadTextFileResponse,
     ReadBinaryFileResponse)
-from data.utils import load_config
+from eval.mcp_servers.scientific_data_repository.utils import load_config
 
 
 cfg = load_config(os.environ["CONFIG_PATH"], os.environ["DEFAULT_CONFIG_PATH"])['api']
