@@ -120,7 +120,9 @@ from simulator.utils import load_taxonomy
 sim = Simulator(
     story_config=StoryConfig(taxonomy=load_taxonomy('./taxonomy')),
     fs_config=FileSystemConfig(),
-    file_config=FileConfig()
+    file_config=FileConfig(),
+    model_name="Qwen/Qwen3-4B-Instruct-2507", # or your preferred HF LLM
+    device_map="auto"
 )
 
 # Generate a filesystem for seed 42
