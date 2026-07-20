@@ -147,13 +147,12 @@ This project is released under the [MIT License](LICENSE).
 If you use InfiniteScienceGym in your research, please cite:
 
 ```bibtex
-@misc{bentham2026infinitesciencegym,
-      title={InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis}, 
-      author={Oliver Bentham and Vivek Srikumar},
-      year={2026},
-      eprint={2604.13201},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2604.13201}, 
+@inproceedings{  
+  bentham2026infinitesciencegym,
+  title={InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis},
+  author={Oliver Bentham and Vivek Srikumar},
+  booktitle={Third Conference on Language Modeling},
+  year={2026},
+  url={https://openreview.net/forum?id=OPxLsDs8TK}
 }
 ```
