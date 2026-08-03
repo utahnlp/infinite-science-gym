@@ -138,6 +138,26 @@ file = sim.read_file(fs=fs, path=first_file_path)
 print(file.data.head(10)) # file.data is a pandas DataFrame
 ```
 
+## Reproducibility
+
+This section contains specific instructions for reproducing the results from our paper.
+
+### Seeds and QA pairs
+
+The exact filesystem seeds and corresponding QA pairs used in the sample of 500 questions can be found in [seeds.txt](seeds.txt).
+Each row contains a seed and QA-id of the form `<seed>.<qa_id>`.
+For QA ids that end in "_#", like `2.count_rows_3`, the final integer corresponds to the seed used in questions that involve sampling to generate the question, like the `count_rows` question in this case.
+The final QA seed will for included questions will always be in the range 0-4, so generating QA pairs using  `scripts/2_generate_questions.py --n-seeded-samples 5` guarantees generating all questions included in the evaluation.
+
+### Hardware
+
+All of our local models are run on a single 141GB NVIDIA H200 with CUDA 13.2. 
+See the University of Utah's [CHPC documentation](https://www.chpc.utah.edu/documentation/guides/gpus-hardware.php) for additional details.
+
+### Software
+
+We run all code using Python 3.12.1 and the pinned libraries in [requirements.txt](requirements.txt).
+
 ## License
 
 This project is released under the [MIT License](LICENSE).
